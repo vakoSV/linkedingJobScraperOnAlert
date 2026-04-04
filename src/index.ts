@@ -11,14 +11,14 @@ interface ScrapeRequest {
 }
 
 interface ScrapedJob {
-  title: string | null;
-  company: string | null;
-  location: string | null;
-  description: string | null;
+  title: string;
+  company: string;
+  location: string;
+  description: string;
 }
 
 const MIN_DELAY_MS = 3000;
-const MAX_DELAY_MS = 7000;
+const MAX_DELAY_MS = 5000;
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
@@ -68,7 +68,7 @@ async function processJobs(payload: ScrapeRequest, env: Env): Promise<void> {
 
       try {
         const response = await page.goto(sourceUrl, {
-          waitUntil: "domcontentloaded",
+          waitUntil: "networkidle2",
           timeout: 45000,
         });
 
@@ -84,19 +84,21 @@ async function processJobs(payload: ScrapeRequest, env: Env): Promise<void> {
         const scrapedJob = await extractJob(page);
 
         await postToWebhook(payload.webhook_url, {
-          status: "success",
-          job_id: jobId,
-          source_url: sourceUrl,
-          scraped_at: new Date().toISOString(),
-          ...scrapedJob,
+          job_info: {
+            title: scrapedJob.title,
+            description: scrapedJob.description,
+            job_url: sourceUrl,
+            location: scrapedJob.location,
+          },
+          company_info: {
+            name: scrapedJob.company,
+          },
         });
       } catch (error) {
+        const errorCode = classifyJobError(error);
         await postToWebhook(payload.webhook_url, {
-          status: "error",
+          error: errorCode,
           job_id: jobId,
-          source_url: sourceUrl,
-          scraped_at: new Date().toISOString(),
-          error: error instanceof Error ? error.message : "Unknown scraping error",
         });
       }
 
@@ -113,7 +115,7 @@ async function processJobs(payload: ScrapeRequest, env: Env): Promise<void> {
 async function extractJob(page: Page): Promise<ScrapedJob> {
   await page.waitForSelector("body", { timeout: 15000 });
 
-  return page.evaluate(() => {
+  const scraped = await page.evaluate(() => {
     const textFrom = (selectors: string[]): string | null => {
       for (const selector of selectors) {
         const node = document.querySelector(selector);
@@ -155,6 +157,17 @@ async function extractJob(page: Page): Promise<ScrapedJob> {
 
     return { title, company, location, description };
   });
+
+  if (!scraped.title || !scraped.company || !scraped.description) {
+    throw new Error("Missing required selectors");
+  }
+
+  return {
+    title: scraped.title,
+    company: scraped.company,
+    location: scraped.location ?? "",
+    description: scraped.description,
+  };
 }
 
 async function postToWebhook(webhookUrl: string, payload: unknown): Promise<void> {
@@ -214,6 +227,24 @@ function isBlockedOrAuthwall(currentUrl: string): boolean {
     currentUrl.includes("/login") ||
     currentUrl.includes("/checkpoint")
   );
+}
+
+function classifyJobError(error: unknown): string {
+  const message = error instanceof Error ? error.message.toLowerCase() : "";
+
+  if (message.includes("http 404")) {
+    return "not_found";
+  }
+
+  if (message.includes("blocked") || message.includes("authwall") || message.includes("login")) {
+    return "blocked";
+  }
+
+  if (message.includes("selector") || message.includes("missing required")) {
+    return "selectors_missing";
+  }
+
+  return "scrape_failed";
 }
 
 function jsonResponse(body: unknown, status: number): Response {
