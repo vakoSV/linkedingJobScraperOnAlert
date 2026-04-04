@@ -1,30 +1,30 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "generated_at": "2026-04-04T00:00:00.000Z",
-  "jobs": [
+  "events": [
     {
+      "timestamp": "2026-04-03T08:11:10.000Z",
       "job_id": "4381917765",
-      "title": "AI Automation Engineer",
       "company": "Acme Systems",
-      "description": "Lead implementation of AI-first automation workflows across GTM and support teams.",
-      "location": "Berlin, Germany",
       "country": "Germany",
       "workplace_type": "Hybrid",
-      "category": "Automation",
-      "job_url": "https://www.linkedin.com/jobs/view/4381917765/",
-      "processed_at": "2026-04-04T00:00:00.000Z"
+      "success_status": "success"
     },
     {
+      "timestamp": "2026-04-03T09:45:31.000Z",
       "job_id": "4393886998",
-      "title": "SaaS Operations Analyst",
       "company": "Nimbus Cloud",
-      "description": "Drive platform operations, reporting health, and automation for subscription tooling.",
-      "location": "Austin, TX, United States",
       "country": "United States",
       "workplace_type": "Remote",
-      "category": "SaaS Ops",
-      "job_url": "https://www.linkedin.com/jobs/view/4393886998/",
-      "processed_at": "2026-04-04T00:00:00.000Z"
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-04T06:02:12.000Z",
+      "job_id": "4381917765",
+      "company": "Unknown",
+      "country": "Unknown",
+      "workplace_type": "Not Specified",
+      "success_status": "failed"
     }
   ]
 }

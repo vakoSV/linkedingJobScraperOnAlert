@@ -6,10 +6,12 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "scrape": "node index.js"
   },
   "dependencies": {
-    "@cloudflare/puppeteer": "^0.0.14"
+    "@cloudflare/puppeteer": "^0.0.14",
+    "puppeteer": "^24.6.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20260403.0",
