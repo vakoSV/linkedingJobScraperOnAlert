@@ -7,7 +7,6 @@ interface Env {
 
 interface ScrapeRequest {
   job_ids: string[];
-  webhook_url: string;
 }
 
 interface ScrapedJob {
@@ -21,6 +20,8 @@ const MIN_DELAY_MS = 3000;
 const MAX_DELAY_MS = 5000;
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+const MAKE_WEBHOOK_URL =
+  "https://hook.us1.make.com/bs4s6msoa6kc1vvv8hkkih4yomomb1d5";
 
 export default {
   async fetch(request, env, ctx): Promise<Response> {
@@ -83,7 +84,7 @@ async function processJobs(payload: ScrapeRequest, env: Env): Promise<void> {
 
         const scrapedJob = await extractJob(page);
 
-        await postToWebhook(payload.webhook_url, {
+        await postToWebhook(MAKE_WEBHOOK_URL, {
           job_info: {
             title: scrapedJob.title,
             description: scrapedJob.description,
@@ -96,7 +97,7 @@ async function processJobs(payload: ScrapeRequest, env: Env): Promise<void> {
         });
       } catch (error) {
         const errorCode = classifyJobError(error);
-        await postToWebhook(payload.webhook_url, {
+        await postToWebhook(MAKE_WEBHOOK_URL, {
           error: errorCode,
           job_id: jobId,
         });
@@ -195,19 +196,6 @@ function validatePayload(payload: ScrapeRequest): string | null {
 
   if (!payload.job_ids.every((id) => typeof id === "string" && id.trim().length > 0)) {
     return "job_ids must contain only non-empty strings";
-  }
-
-  if (typeof payload.webhook_url !== "string") {
-    return "webhook_url must be a valid HTTPS URL";
-  }
-
-  try {
-    const webhook = new URL(payload.webhook_url);
-    if (webhook.protocol !== "https:") {
-      return "webhook_url must use HTTPS";
-    }
-  } catch {
-    return "webhook_url must be a valid HTTPS URL";
   }
 
   return null;
