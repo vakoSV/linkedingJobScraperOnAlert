@@ -14,7 +14,12 @@ interface ScrapedJob {
   company: string;
   location: string;
   description: string;
+  workplaceType: WorkplaceType;
+  category: JobCategory;
 }
+
+type WorkplaceType = "Remote" | "Hybrid" | "On-site" | "Not Specified";
+type JobCategory = "Automation" | "AI" | "SaaS Ops" | "Other";
 
 const MIN_DELAY_MS = 3000;
 const MAX_DELAY_MS = 5000;
@@ -90,6 +95,8 @@ async function processJobs(payload: ScrapeRequest, env: Env): Promise<void> {
             description: scrapedJob.description,
             job_url: sourceUrl,
             location: scrapedJob.location,
+            workplace_type: scrapedJob.workplaceType,
+            category: scrapedJob.category,
           },
           company_info: {
             name: scrapedJob.company,
@@ -149,6 +156,13 @@ async function extractJob(page: Page): Promise<ScrapedJob> {
       "span[data-test-id='job-location']",
     ]);
 
+    const metadataText = textFrom([
+      ".description__job-criteria-list",
+      ".topcard__flavor-row",
+      ".topcard__flavor",
+      ".job-criteria__item",
+    ]);
+
     const descriptionElement =
       document.querySelector(".show-more-less-html__markup") ??
       document.querySelector(".description__text") ??
@@ -156,7 +170,7 @@ async function extractJob(page: Page): Promise<ScrapedJob> {
 
     const description = descriptionElement?.textContent?.trim() ?? null;
 
-    return { title, company, location, description };
+    return { title, company, location, description, metadataText };
   });
 
   if (!scraped.title || !scraped.company || !scraped.description) {
@@ -168,6 +182,8 @@ async function extractJob(page: Page): Promise<ScrapedJob> {
     company: scraped.company,
     location: scraped.location ?? "",
     description: scraped.description,
+    workplaceType: detectWorkplaceType(scraped.metadataText, scraped.location, scraped.description),
+    category: classifyCategory(scraped.title),
   };
 }
 
@@ -233,6 +249,60 @@ function classifyJobError(error: unknown): string {
   }
 
   return "scrape_failed";
+}
+
+function detectWorkplaceType(...texts: Array<string | null | undefined>): WorkplaceType {
+  const joinedText = texts
+    .filter((value): value is string => Boolean(value))
+    .join(" ")
+    .toLowerCase();
+
+  if (joinedText.includes("hybrid")) {
+    return "Hybrid";
+  }
+
+  if (joinedText.includes("on-site") || joinedText.includes("onsite") || joinedText.includes("on site")) {
+    return "On-site";
+  }
+
+  if (joinedText.includes("remote")) {
+    return "Remote";
+  }
+
+  return "Not Specified";
+}
+
+function classifyCategory(title: string): JobCategory {
+  const normalizedTitle = title.toLowerCase();
+
+  if (
+    normalizedTitle.includes("automation") ||
+    normalizedTitle.includes("rpa") ||
+    normalizedTitle.includes("workflow")
+  ) {
+    return "Automation";
+  }
+
+  if (
+    normalizedTitle.includes("ai") ||
+    normalizedTitle.includes("machine learning") ||
+    normalizedTitle.includes("ml ") ||
+    normalizedTitle.includes("llm") ||
+    normalizedTitle.includes("data scientist")
+  ) {
+    return "AI";
+  }
+
+  if (
+    normalizedTitle.includes("saas") ||
+    normalizedTitle.includes("ops") ||
+    normalizedTitle.includes("revenue operations") ||
+    normalizedTitle.includes("platform")
+  ) {
+    return "SaaS Ops";
+  }
+
+  return "Other";
 }
 
 function jsonResponse(body: unknown, status: number): Response {

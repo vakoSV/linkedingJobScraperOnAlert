@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LinkedIn Monitoring Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <style>
+      :root {
+        --bg: #0b1117;
+        --panel: #121b24;
+        --panel-border: #223143;
+        --text: #e4eef8;
+        --subtle: #9ab0c6;
+        --accent: #7de2d1;
+        --accent-2: #7aa8ff;
+        --accent-3: #ffa75f;
+        --accent-4: #a68cff;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+        color: var(--text);
+        background: radial-gradient(circle at top right, #172432 0%, var(--bg) 40%), var(--bg);
+      }
+
+      .container {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: 1.5rem;
+        letter-spacing: 0.02em;
+      }
+
+      .subhead {
+        margin: 0 0 20px;
+        color: var(--subtle);
+        font-size: 0.95rem;
+      }
+
+      .metrics {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 12px;
+        margin-bottom: 16px;
+      }
+
+      .metric {
+        background: var(--panel);
+        border: 1px solid var(--panel-border);
+        border-radius: 10px;
+        padding: 14px;
+      }
+
+      .metric .label {
+        color: var(--subtle);
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .metric .value {
+        margin-top: 6px;
+        font-size: 1.5rem;
+        font-weight: 700;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      .panel {
+        background: var(--panel);
+        border: 1px solid var(--panel-border);
+        border-radius: 10px;
+        padding: 14px;
+        min-height: 320px;
+      }
+
+      .panel h2 {
+        margin: 0 0 10px;
+        font-size: 0.95rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--subtle);
+      }
+
+      canvas {
+        width: 100% !important;
+        height: 260px !important;
+      }
+
+      .table-panel {
+        margin-top: 12px;
+        overflow-x: auto;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.82rem;
+      }
+
+      th,
+      td {
+        text-align: left;
+        padding: 8px;
+        border-bottom: 1px solid #1f2a38;
+      }
+
+      th {
+        color: var(--subtle);
+        text-transform: uppercase;
+        font-size: 0.72rem;
+        letter-spacing: 0.08em;
+      }
+
+      @media (max-width: 960px) {
+        .metrics {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>LinkedIn Job Monitoring</h1>
+      <p class="subhead" id="generatedAt">Loading dataset...</p>
+
+      <div class="metrics">
+        <div class="metric">
+          <div class="label">Total Jobs</div>
+          <div class="value" id="totalJobs">0</div>
+        </div>
+        <div class="metric">
+          <div class="label">Remote Share</div>
+          <div class="value" id="remoteShare">0%</div>
+        </div>
+        <div class="metric">
+          <div class="label">Top Country</div>
+          <div class="value" id="topCountry">-</div>
+        </div>
+        <div class="metric">
+          <div class="label">Top Category</div>
+          <div class="value" id="topCategory">-</div>
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="panel">
+          <h2>Workplace Type Split</h2>
+          <canvas id="workplaceChart"></canvas>
+        </div>
+        <div class="panel">
+          <h2>Top 5 Countries</h2>
+          <canvas id="countryChart"></canvas>
+        </div>
+        <div class="panel">
+          <h2>Role Categories</h2>
+          <canvas id="categoryChart"></canvas>
+        </div>
+      </div>
+
+      <div class="panel table-panel">
+        <h2>Recent Jobs</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Title</th>
+              <th>Company</th>
+              <th>Location</th>
+              <th>Country</th>
+              <th>Workplace</th>
+              <th>Category</th>
+            </tr>
+          </thead>
+          <tbody id="jobsTable"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <script>
+      const palette = ["#7de2d1", "#7aa8ff", "#ffa75f", "#a68cff", "#f2759c", "#89dd6f"];
+
+      function normalizeWorkplace(value) {
+        const normalized = (value || "").toLowerCase();
+        if (normalized.includes("remote")) return "Remote";
+        if (normalized.includes("hybrid")) return "Hybrid";
+        if (normalized.includes("on-site") || normalized.includes("onsite") || normalized.includes("on site")) {
+          return "On-site";
+        }
+        return "Not Specified";
+      }
+
+      function parseCountry(location) {
+        if (!location || typeof location !== "string") return "Unknown";
+        const parts = location.split(",").map((part) => part.trim()).filter(Boolean);
+        if (parts.length === 0) return "Unknown";
+        const last = parts[parts.length - 1];
+        const upper = last.toUpperCase();
+        if (upper === "US" || upper === "USA" || upper === "U.S." || upper === "U.S.A." || upper === "UNITED STATES") {
+          return "United States";
+        }
+        if (upper === "UK" || upper === "U.K." || upper === "UNITED KINGDOM") return "United Kingdom";
+        return last;
+      }
+
+      function countBy(items, getter) {
+        const counts = new Map();
+        items.forEach((item) => {
+          const key = getter(item);
+          counts.set(key, (counts.get(key) || 0) + 1);
+        });
+        return counts;
+      }
+
+      function topKey(map) {
+        let winner = "-";
+        let max = -1;
+        map.forEach((value, key) => {
+          if (value > max) {
+            winner = key;
+            max = value;
+          }
+        });
+        return winner;
+      }
+
+      async function boot() {
+        const response = await fetch("./data/stats.json", { cache: "no-store" });
+        const data = await response.json();
+        const jobs = Array.isArray(data.jobs) ? data.jobs : [];
+
+        const enriched = jobs.map((job) => ({
+          ...job,
+          workplace_type: normalizeWorkplace(job.workplace_type),
+          country: job.country || parseCountry(job.location),
+          category: job.category || "Other"
+        }));
+
+        document.getElementById("generatedAt").textContent = `Generated: ${new Date(data.generated_at || Date.now()).toLocaleString()}`;
+        document.getElementById("totalJobs").textContent = String(enriched.length);
+
+        const workplaceCounts = countBy(enriched, (job) => normalizeWorkplace(job.workplace_type));
+        const countryCounts = countBy(enriched, (job) => job.country || "Unknown");
+        const categoryCounts = countBy(enriched, (job) => job.category || "Other");
+
+        const remoteShare = enriched.length
+          ? Math.round(((workplaceCounts.get("Remote") || 0) / enriched.length) * 100)
+          : 0;
+
+        document.getElementById("remoteShare").textContent = `${remoteShare}%`;
+        document.getElementById("topCountry").textContent = topKey(countryCounts);
+        document.getElementById("topCategory").textContent = topKey(categoryCounts);
+
+        new Chart(document.getElementById("workplaceChart"), {
+          type: "doughnut",
+          data: {
+            labels: ["Remote", "Hybrid", "On-site", "Not Specified"],
+            datasets: [{
+              data: [
+                workplaceCounts.get("Remote") || 0,
+                workplaceCounts.get("Hybrid") || 0,
+                workplaceCounts.get("On-site") || 0,
+                workplaceCounts.get("Not Specified") || 0
+              ],
+              backgroundColor: [palette[0], palette[1], palette[2], "#44556a"]
+            }]
+          },
+          options: {
+            plugins: { legend: { labels: { color: "#e4eef8" } } }
+          }
+        });
+
+        const topCountries = Array.from(countryCounts.entries())
+          .sort((a, b) => b[1] - a[1])
+          .slice(0, 5);
+
+        new Chart(document.getElementById("countryChart"), {
+          type: "bar",
+          data: {
+            labels: topCountries.map((entry) => entry[0]),
+            datasets: [{
+              label: "Jobs",
+              data: topCountries.map((entry) => entry[1]),
+              backgroundColor: palette[1]
+            }]
+          },
+          options: {
+            scales: {
+              x: { ticks: { color: "#e4eef8" }, grid: { color: "#1f2a38" } },
+              y: { ticks: { color: "#e4eef8", precision: 0 }, grid: { color: "#1f2a38" } }
+            },
+            plugins: { legend: { labels: { color: "#e4eef8" } } }
+          }
+        });
+
+        new Chart(document.getElementById("categoryChart"), {
+          type: "pie",
+          data: {
+            labels: Array.from(categoryCounts.keys()),
+            datasets: [{
+              data: Array.from(categoryCounts.values()),
+              backgroundColor: [palette[0], palette[2], palette[3], palette[4], palette[5]]
+            }]
+          },
+          options: {
+            plugins: { legend: { labels: { color: "#e4eef8" } } }
+          }
+        });
+
+        const tableBody = document.getElementById("jobsTable");
+        tableBody.innerHTML = enriched
+          .slice(0, 12)
+          .map(
+            (job) =>
+              `<tr>
+                <td>${job.title || "-"}</td>
+                <td>${job.company || "-"}</td>
+                <td>${job.location || "-"}</td>
+                <td>${job.country || "Unknown"}</td>
+                <td>${normalizeWorkplace(job.workplace_type)}</td>
+                <td>${job.category || "Other"}</td>
+              </tr>`,
+          )
+          .join("");
+      }
+
+      boot();
+    </script>
+  </body>
+</html>
