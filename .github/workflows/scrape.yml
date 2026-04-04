@@ -1,8 +1,14 @@
 name: Run LinkedIn Scraper
 
 on:
+  workflow_dispatch:
+    inputs:
+      job_ids:
+        description: Comma-separated LinkedIn job IDs
+        required: false
+        default: ""
   repository_dispatch:
-    types: [run-linkedin-scrape]
+    types: [trigger_scrape]
 
 jobs:
   scrape:
@@ -22,9 +28,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Prepare payload from repository dispatch
+        if: github.event_name == 'repository_dispatch'
+        run: echo 'CLIENT_PAYLOAD=${{ toJson(github.event.client_payload) }}' >> "$GITHUB_ENV"
+
+      - name: Prepare payload from manual dispatch
+        if: github.event_name == 'workflow_dispatch'
+        run: echo 'CLIENT_PAYLOAD={"job_ids":"${{ inputs.job_ids }}"}' >> "$GITHUB_ENV"
+
       - name: Run scraper
-        env:
-          CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: npm run scrape
 
       - name: Commit updated stats

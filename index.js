@@ -112,11 +112,21 @@ function getJobIdsFromPayload(rawPayload) {
   try {
     const parsed = JSON.parse(rawPayload);
     const payload = parsed?.client_payload ?? parsed;
-    if (!Array.isArray(payload?.job_ids)) {
+
+    if (Array.isArray(payload?.job_ids)) {
+      return payload.job_ids
+        .map((value) => String(value).trim())
+        .filter(Boolean);
+    }
+
+    if (typeof payload?.job_ids !== "string") {
       return [];
     }
 
-    return payload.job_ids.filter((value) => typeof value === "string" || typeof value === "number");
+    return payload.job_ids
+      .split(",")
+      .map((value) => value.trim())
+      .filter(Boolean);
   } catch {
     return [];
   }
