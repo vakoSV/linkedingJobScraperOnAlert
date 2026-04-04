@@ -1,5 +1,8 @@
 name: Run LinkedIn Scraper
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   workflow_dispatch:
     inputs:
@@ -30,11 +33,21 @@ jobs:
 
       - name: Prepare payload from repository dispatch
         if: github.event_name == 'repository_dispatch'
-        run: echo 'CLIENT_PAYLOAD=${{ toJson(github.event.client_payload) }}' >> "$GITHUB_ENV"
+        run: |
+          {
+            echo 'CLIENT_PAYLOAD<<EOF'
+            echo '${{ toJson(github.event.client_payload) }}'
+            echo 'EOF'
+          } >> "$GITHUB_ENV"
 
       - name: Prepare payload from manual dispatch
         if: github.event_name == 'workflow_dispatch'
-        run: echo 'CLIENT_PAYLOAD={"job_ids":"${{ inputs.job_ids }}"}' >> "$GITHUB_ENV"
+        run: |
+          {
+            echo 'CLIENT_PAYLOAD<<EOF'
+            echo '{"job_ids":"${{ inputs.job_ids }}"}'
+            echo 'EOF'
+          } >> "$GITHUB_ENV"
 
       - name: Run scraper
         run: npm run scrape
