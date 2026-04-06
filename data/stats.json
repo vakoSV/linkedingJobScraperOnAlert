@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-06T08:29:29.736Z",
+  "generated_at": "2026-04-06T10:29:13.620Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -1102,6 +1102,222 @@
       "timestamp": "2026-04-06T08:29:26.798Z",
       "job_id": "4394404585",
       "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:15.244Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:23.570Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:30.385Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:37.856Z",
+      "job_id": "4394419739",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:44.371Z",
+      "job_id": "4394419739",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:50.571Z",
+      "job_id": "4394419739",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:26:56.961Z",
+      "job_id": "4397709132",
+      "company": "Mercor",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:04.980Z",
+      "job_id": "4397709132",
+      "company": "Mercor",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:12.495Z",
+      "job_id": "4397709132",
+      "company": "Mercor",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:17.968Z",
+      "job_id": "4397743174",
+      "company": "Netrolynx AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:23.991Z",
+      "job_id": "4397743174",
+      "company": "Netrolynx AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:31.976Z",
+      "job_id": "4397743174",
+      "company": "Netrolynx AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:38.422Z",
+      "job_id": "4394273477",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:44.849Z",
+      "job_id": "4394273477",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:51.568Z",
+      "job_id": "4394273477",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:27:57.714Z",
+      "job_id": "4394416422",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:04.603Z",
+      "job_id": "4394416422",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:12.052Z",
+      "job_id": "4394416422",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:17.519Z",
+      "job_id": "4397833594",
+      "company": "Arcadis",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:24.133Z",
+      "job_id": "4397833594",
+      "company": "Arcadis",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:31.816Z",
+      "job_id": "4397833594",
+      "company": "Arcadis",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:38.126Z",
+      "job_id": "4397875905",
+      "company": "Thermo Fisher Scientific",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:45.202Z",
+      "job_id": "4397875905",
+      "company": "Thermo Fisher Scientific",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:51.746Z",
+      "job_id": "4397875905",
+      "company": "Thermo Fisher Scientific",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:28:57.848Z",
+      "job_id": "4394286091",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:29:04.057Z",
+      "job_id": "4394286091",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T10:29:10.879Z",
+      "job_id": "4394286091",
+      "company": "Jobs via Dice",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
