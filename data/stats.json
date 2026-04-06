@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-06T12:30:09.685Z",
+  "generated_at": "2026-04-06T14:29:43.772Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -1560,6 +1560,150 @@
       "company": "Bestow",
       "country": "United States",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:27:44.135Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:27:51.794Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:27:58.980Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:05.375Z",
+      "job_id": "4394404585",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:13.408Z",
+      "job_id": "4394404585",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:19.843Z",
+      "job_id": "4394404585",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:26.226Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:32.624Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:39.634Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:46.494Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:52.151Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:28:58.956Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:29:06.059Z",
+      "job_id": "4388457172",
+      "company": "Progressive Leasing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:29:13.876Z",
+      "job_id": "4388457172",
+      "company": "Progressive Leasing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:29:21.002Z",
+      "job_id": "4388457172",
+      "company": "Progressive Leasing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:29:27.792Z",
+      "job_id": "4394419739",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:29:34.637Z",
+      "job_id": "4394419739",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T14:29:40.740Z",
+      "job_id": "4394419739",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
