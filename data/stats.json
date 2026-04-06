@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-05T18:28:19.296Z",
+  "generated_at": "2026-04-06T06:30:03.658Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -646,6 +646,246 @@
       "timestamp": "2026-04-05T18:28:16.523Z",
       "job_id": "4330417669",
       "company": "EvenUp",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:26:39.560Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:26:46.871Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:26:54.538Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:01.793Z",
+      "job_id": "4394404585",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:08.083Z",
+      "job_id": "4394404585",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:14.630Z",
+      "job_id": "4394404585",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:20.810Z",
+      "job_id": "4372019769",
+      "company": "BetterUp",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:27.134Z",
+      "job_id": "4372019769",
+      "company": "BetterUp",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:34.286Z",
+      "job_id": "4372019769",
+      "company": "BetterUp",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:41.207Z",
+      "job_id": "4372018818",
+      "company": "BetterUp",
+      "country": "VA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:47.440Z",
+      "job_id": "4372018818",
+      "company": "BetterUp",
+      "country": "VA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:27:54.543Z",
+      "job_id": "4372018818",
+      "company": "BetterUp",
+      "country": "VA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:02.081Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:08.777Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:16.506Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:23.320Z",
+      "job_id": "4376120244",
+      "company": "Apex Fintech Solutions",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:29.318Z",
+      "job_id": "4376120244",
+      "company": "Apex Fintech Solutions",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:35.477Z",
+      "job_id": "4376120244",
+      "company": "Apex Fintech Solutions",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:42.290Z",
+      "job_id": "4352403016",
+      "company": "Zendesk",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:49.416Z",
+      "job_id": "4352403016",
+      "company": "Zendesk",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:28:56.998Z",
+      "job_id": "4352403016",
+      "company": "Zendesk",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:04.936Z",
+      "job_id": "4220344243",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:12.512Z",
+      "job_id": "4220344243",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:18.188Z",
+      "job_id": "4220344243",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:24.338Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:32.313Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:40.042Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:46.746Z",
+      "job_id": "4397719018",
+      "company": "Next Match AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:29:53.032Z",
+      "job_id": "4397719018",
+      "company": "Next Match AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T06:30:00.653Z",
+      "job_id": "4397719018",
+      "company": "Next Match AI",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
