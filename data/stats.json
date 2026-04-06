@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-06T10:29:13.620Z",
+  "generated_at": "2026-04-06T12:30:09.685Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -1320,6 +1320,246 @@
       "company": "Jobs via Dice",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:26:49.213Z",
+      "job_id": "4397491434",
+      "company": "Dignitas Technologies",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:26:56.094Z",
+      "job_id": "4397491434",
+      "company": "Dignitas Technologies",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:03.593Z",
+      "job_id": "4397491434",
+      "company": "Dignitas Technologies",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:11.229Z",
+      "job_id": "4323928944",
+      "company": "Agile Resources, Inc.",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:18.773Z",
+      "job_id": "4323928944",
+      "company": "Agile Resources, Inc.",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:25.539Z",
+      "job_id": "4323928944",
+      "company": "Agile Resources, Inc.",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:33.420Z",
+      "job_id": "4367699168",
+      "company": "TAIT",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:40.116Z",
+      "job_id": "4367699168",
+      "company": "TAIT",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:46.387Z",
+      "job_id": "4367699168",
+      "company": "TAIT",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:52.864Z",
+      "job_id": "4328135157",
+      "company": "PwC",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:27:59.548Z",
+      "job_id": "4328135157",
+      "company": "PwC",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:05.013Z",
+      "job_id": "4328135157",
+      "company": "PwC",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:11.029Z",
+      "job_id": "4374641529",
+      "company": "Siemens Energy",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:18.201Z",
+      "job_id": "4374641529",
+      "company": "Siemens Energy",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:24.646Z",
+      "job_id": "4374641529",
+      "company": "Siemens Energy",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:31.089Z",
+      "job_id": "4394406398",
+      "company": "Haystack",
+      "country": "Greater Orlando",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:36.959Z",
+      "job_id": "4394406398",
+      "company": "Haystack",
+      "country": "Greater Orlando",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:43.941Z",
+      "job_id": "4394406398",
+      "company": "Haystack",
+      "country": "Greater Orlando",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:50.126Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:28:57.944Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:04.310Z",
+      "job_id": "4394412482",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:10.337Z",
+      "job_id": "4372015913",
+      "company": "BetterUp",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:17.684Z",
+      "job_id": "4372015913",
+      "company": "BetterUp",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:23.750Z",
+      "job_id": "4372015913",
+      "company": "BetterUp",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:30.947Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:37.836Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:45.326Z",
+      "job_id": "4397492104",
+      "company": "Refactor Talent",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:29:53.129Z",
+      "job_id": "4385590611",
+      "company": "Bestow",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:30:00.151Z",
+      "job_id": "4385590611",
+      "company": "Bestow",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-06T12:30:07.433Z",
+      "job_id": "4385590611",
+      "company": "Bestow",
+      "country": "United States",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
