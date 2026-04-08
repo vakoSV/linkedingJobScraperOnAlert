@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-07T12:29:03.306Z",
+  "generated_at": "2026-04-08T06:31:28.697Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -2615,6 +2615,246 @@
       "job_id": "4397324073",
       "company": "MethodHub",
       "country": "NC",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:11.692Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:19.333Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:26.378Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:32.631Z",
+      "job_id": "4383225290",
+      "company": "Provisions Group",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:39.195Z",
+      "job_id": "4383225290",
+      "company": "Provisions Group",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:45.447Z",
+      "job_id": "4383225290",
+      "company": "Provisions Group",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:52.505Z",
+      "job_id": "4398085686",
+      "company": "Keystone Custom Homes",
+      "country": "PA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:28:59.883Z",
+      "job_id": "4398085686",
+      "company": "Keystone Custom Homes",
+      "country": "PA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:05.976Z",
+      "job_id": "4398085686",
+      "company": "Keystone Custom Homes",
+      "country": "PA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:12.327Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:18.362Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:23.579Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:30.464Z",
+      "job_id": "4395477191",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:36.112Z",
+      "job_id": "4395477191",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:43.421Z",
+      "job_id": "4395477191",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:51.315Z",
+      "job_id": "4398555241",
+      "company": "Closers.io",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:29:56.793Z",
+      "job_id": "4398555241",
+      "company": "Closers.io",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:02.948Z",
+      "job_id": "4398555241",
+      "company": "Closers.io",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:09.371Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:15.680Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:23.293Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:30.711Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:37.638Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:43.435Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:49.817Z",
+      "job_id": "4398318786",
+      "company": "Lockheed Martin",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:30:57.658Z",
+      "job_id": "4398318786",
+      "company": "Lockheed Martin",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:31:05.004Z",
+      "job_id": "4398318786",
+      "company": "Lockheed Martin",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:31:11.109Z",
+      "job_id": "4398579257",
+      "company": "BNY",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:31:19.069Z",
+      "job_id": "4398579257",
+      "company": "BNY",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T06:31:26.556Z",
+      "job_id": "4398579257",
+      "company": "BNY",
+      "country": "FL",
       "workplace_type": "Hybrid",
       "success_status": "success"
     }
