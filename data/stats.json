@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-08T10:29:38.900Z",
+  "generated_at": "2026-04-08T12:27:24.688Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3334,6 +3334,78 @@
       "timestamp": "2026-04-08T10:29:35.868Z",
       "job_id": "4398550746",
       "company": "Jack & Jill",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:26:22.495Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:26:31.033Z",
+      "job_id": "4398555241",
+      "company": "Closers.io",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:26:38.489Z",
+      "job_id": "4383225290",
+      "company": "Provisions Group",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:26:46.311Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:26:52.662Z",
+      "job_id": "4395477191",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:27:00.237Z",
+      "job_id": "4398355029",
+      "company": "Greenlight",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:27:06.804Z",
+      "job_id": "4230632786",
+      "company": "Vapi",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:27:14.210Z",
+      "job_id": "4398543040",
+      "company": "Miter",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T12:27:21.902Z",
+      "job_id": "4398023903",
+      "company": "Success Mortgage Partners, Inc.",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
