@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-08T12:27:24.688Z",
+  "generated_at": "2026-04-08T14:30:37.368Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3408,6 +3408,54 @@
       "company": "Success Mortgage Partners, Inc.",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T14:29:57.580Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T14:30:05.402Z",
+      "job_id": "4395477191",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T14:30:13.289Z",
+      "job_id": "4398210056",
+      "company": "Magic EdTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T14:30:20.782Z",
+      "job_id": "4377053896",
+      "company": "Paramount",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T14:30:27.726Z",
+      "job_id": "4398355029",
+      "company": "Greenlight",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-08T14:30:35.100Z",
+      "job_id": "4398575120",
+      "company": "Mesh",
+      "country": "CA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
