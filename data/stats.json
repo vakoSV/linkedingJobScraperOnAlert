@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-09T10:26:55.144Z",
+  "generated_at": "2026-04-09T12:27:59.792Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3616,6 +3616,78 @@
       "company": "Siemens Energy",
       "country": "FL",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:26:58.674Z",
+      "job_id": "4398939301",
+      "company": "Avalara",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:06.621Z",
+      "job_id": "4395938758",
+      "company": "Kraken",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:13.925Z",
+      "job_id": "4374534118",
+      "company": "ŌURA",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:21.820Z",
+      "job_id": "4398610693",
+      "company": "Greenlight",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:29.438Z",
+      "job_id": "4386986132",
+      "company": "Perficient",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:35.720Z",
+      "job_id": "4399430836",
+      "company": "Prime Controls",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:43.266Z",
+      "job_id": "4396319245",
+      "company": "Cameo",
+      "country": "IL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:50.495Z",
+      "job_id": "4395477032",
+      "company": "Jobgether",
+      "country": "Switzerland",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T12:27:57.284Z",
+      "job_id": "4395938757",
+      "company": "Kraken",
+      "country": "Canada",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
