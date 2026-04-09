@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-09T12:27:59.792Z",
+  "generated_at": "2026-04-09T14:37:16.213Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3688,6 +3688,78 @@
       "company": "Kraken",
       "country": "Canada",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:18.005Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:25.251Z",
+      "job_id": "4383896365",
+      "company": "OSF Digital",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:33.320Z",
+      "job_id": "4395479008",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:39.374Z",
+      "job_id": "4395473159",
+      "company": "Jobgether",
+      "country": "OH",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:44.878Z",
+      "job_id": "4399228895",
+      "company": "HIREXE",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:52.194Z",
+      "job_id": "4398934193",
+      "company": "McDermott Will & Schulte",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:36:58.433Z",
+      "job_id": "4313852223",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:37:06.055Z",
+      "job_id": "4374530646",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T14:37:13.614Z",
+      "job_id": "4395477411",
+      "company": "Jobs via Dice",
+      "country": "GA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
