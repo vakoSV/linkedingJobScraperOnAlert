@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-08T14:30:37.368Z",
+  "generated_at": "2026-04-09T06:26:51.104Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3456,6 +3456,38 @@
       "company": "Mesh",
       "country": "CA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T06:26:25.078Z",
+      "job_id": "4398595559",
+      "company": "American Dining Creations",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T06:26:32.203Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T06:26:40.290Z",
+      "job_id": "4395938758",
+      "company": "Kraken",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-09T06:26:47.996Z",
+      "job_id": "4398939301",
+      "company": "Avalara",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
