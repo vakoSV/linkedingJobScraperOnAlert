@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-09T14:37:16.213Z",
+  "generated_at": "2026-04-10T06:27:37.905Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3760,6 +3760,54 @@
       "company": "Jobs via Dice",
       "country": "GA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T06:26:58.638Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T06:27:05.584Z",
+      "job_id": "4396377693",
+      "company": "Peterson Technology Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T06:27:13.616Z",
+      "job_id": "4397205984",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T06:27:20.971Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T06:27:28.637Z",
+      "job_id": "4376994376",
+      "company": "divcon",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T06:27:34.696Z",
+      "job_id": "4374865632",
+      "company": "Minted",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
