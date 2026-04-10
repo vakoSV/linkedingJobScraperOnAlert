@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T18:27:18.984Z",
+  "generated_at": "2026-04-10T20:27:02.832Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4160,6 +4160,54 @@
       "company": "Galactic Minds INC",
       "country": "United States",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T20:26:24.093Z",
+      "job_id": "4398822668",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T20:26:32.248Z",
+      "job_id": "4386871472",
+      "company": "Aarki",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T20:26:38.691Z",
+      "job_id": "4377568760",
+      "company": "Verkada",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T20:26:46.695Z",
+      "job_id": "4359820369",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T20:26:52.883Z",
+      "job_id": "4354812866",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T20:26:59.917Z",
+      "job_id": "4387640862",
+      "company": "vCluster",
+      "country": "CA",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
