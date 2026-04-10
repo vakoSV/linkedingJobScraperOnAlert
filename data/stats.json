@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T08:31:19.028Z",
+  "generated_at": "2026-04-10T10:28:45.624Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3854,6 +3854,86 @@
       "timestamp": "2026-04-10T08:31:16.157Z",
       "job_id": "4397260739",
       "company": "CodeGeniusRecruit",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:27:40.281Z",
+      "job_id": "4374865632",
+      "company": "Minted",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:27:47.541Z",
+      "job_id": "4399452579",
+      "company": "American Dining Creations",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:27:55.276Z",
+      "job_id": "4368698281",
+      "company": "phData",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:02.118Z",
+      "job_id": "4396375152",
+      "company": "Prime Team Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:08.234Z",
+      "job_id": "4384869293",
+      "company": "Microsoft",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:15.860Z",
+      "job_id": "4396349653",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:23.017Z",
+      "job_id": "4377169172",
+      "company": "Stark Tech",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:29.345Z",
+      "job_id": "4388582815",
+      "company": "Insurance Office of America",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:35.611Z",
+      "job_id": "4399816342",
+      "company": "TalentPartners",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T10:28:43.019Z",
+      "job_id": "4396377693",
+      "company": "Peterson Technology Partners",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
