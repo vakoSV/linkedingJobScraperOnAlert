@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T16:38:10.094Z",
+  "generated_at": "2026-04-10T16:52:11.664Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4096,6 +4096,22 @@
       "company": "Planhat",
       "country": "NY",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:52:00.996Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:52:08.216Z",
+      "job_id": "4396375152",
+      "company": "Prime Team Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
