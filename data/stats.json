@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T14:31:04.259Z",
+  "generated_at": "2026-04-10T16:38:10.094Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4032,6 +4032,70 @@
       "company": "Jobgether",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:37:19.434Z",
+      "job_id": "4399462191",
+      "company": "ESVP COACHING INC.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:37:27.066Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:37:33.775Z",
+      "job_id": "4397205984",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:37:40.426Z",
+      "job_id": "4397295737",
+      "company": "Articulate",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:37:46.887Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:37:53.167Z",
+      "job_id": "4398856388",
+      "company": "Omada Health",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:38:00.493Z",
+      "job_id": "4399466571",
+      "company": "Metriport",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T16:38:07.280Z",
+      "job_id": "4398056609",
+      "company": "Planhat",
+      "country": "NY",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
