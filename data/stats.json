@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T10:28:45.624Z",
+  "generated_at": "2026-04-10T12:27:02.594Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3935,6 +3935,54 @@
       "job_id": "4396377693",
       "company": "Peterson Technology Partners",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:23.010Z",
+      "job_id": "4385023781",
+      "company": "Mirakl",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:30.837Z",
+      "job_id": "4398630589",
+      "company": "DataRobot",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:37.208Z",
+      "job_id": "4398626572",
+      "company": "Eastern Bank",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:44.495Z",
+      "job_id": "4377091337",
+      "company": "Anduril Industries",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:51.684Z",
+      "job_id": "4368503161",
+      "company": "Autodesk",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T12:26:59.629Z",
+      "job_id": "4386971039",
+      "company": "Johnson & Johnson MedTech",
+      "country": "MA",
       "workplace_type": "Remote",
       "success_status": "success"
     }
