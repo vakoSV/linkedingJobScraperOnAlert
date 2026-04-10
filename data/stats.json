@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T16:52:11.664Z",
+  "generated_at": "2026-04-10T18:27:18.984Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4112,6 +4112,54 @@
       "company": "Prime Team Partners",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T18:26:40.864Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T18:26:47.861Z",
+      "job_id": "4399816342",
+      "company": "TalentPartners",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T18:26:54.021Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T18:27:01.425Z",
+      "job_id": "4400236230",
+      "company": "CrewAI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T18:27:09.151Z",
+      "job_id": "4397205984",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T18:27:15.879Z",
+      "job_id": "4399473456",
+      "company": "Galactic Minds INC",
+      "country": "United States",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
