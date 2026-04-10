@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T06:27:37.905Z",
+  "generated_at": "2026-04-10T08:31:19.028Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3806,6 +3806,54 @@
       "timestamp": "2026-04-10T06:27:34.696Z",
       "job_id": "4374865632",
       "company": "Minted",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T08:30:38.490Z",
+      "job_id": "4400251571",
+      "company": "Counterpart Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T08:30:45.460Z",
+      "job_id": "4280739079",
+      "company": "Atmosera",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T08:30:53.736Z",
+      "job_id": "4397213106",
+      "company": "Crossing Hurdles",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T08:31:01.071Z",
+      "job_id": "4397220405",
+      "company": "Crossing Hurdles",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T08:31:09.335Z",
+      "job_id": "4397233232",
+      "company": "CodeGeniusRecruit",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T08:31:16.157Z",
+      "job_id": "4397260739",
+      "company": "CodeGeniusRecruit",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
