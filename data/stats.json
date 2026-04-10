@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T12:27:02.594Z",
+  "generated_at": "2026-04-10T14:31:04.259Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -3983,6 +3983,54 @@
       "job_id": "4386971039",
       "company": "Johnson & Johnson MedTech",
       "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T14:30:26.026Z",
+      "job_id": "4399462191",
+      "company": "ESVP COACHING INC.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T14:30:32.680Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T14:30:39.951Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T14:30:46.957Z",
+      "job_id": "4398855392",
+      "company": "Mercury",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T14:30:53.419Z",
+      "job_id": "4398856388",
+      "company": "Omada Health",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-10T14:31:01.121Z",
+      "job_id": "4397205984",
+      "company": "Jobgether",
+      "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
     }
