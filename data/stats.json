@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-11T08:30:16.796Z",
+  "generated_at": "2026-04-11T10:27:16.717Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4326,6 +4326,78 @@
       "timestamp": "2026-04-11T08:30:13.669Z",
       "job_id": "4397184257",
       "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:26:14.897Z",
+      "job_id": "4398137348",
+      "company": "Noblesoft Technologies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:26:23.696Z",
+      "job_id": "4397169927",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:26:30.527Z",
+      "job_id": "4400275568",
+      "company": "Inizio Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:26:38.496Z",
+      "job_id": "4400584701",
+      "company": "Nightwing",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:26:46.274Z",
+      "job_id": "4400299879",
+      "company": "MPower Plus",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:26:53.539Z",
+      "job_id": "4397170945",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:27:00.342Z",
+      "job_id": "4387190733",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:27:06.394Z",
+      "job_id": "4387306059",
+      "company": "Anthropic",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T10:27:14.283Z",
+      "job_id": "4400302910",
+      "company": "Talent Groups",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
