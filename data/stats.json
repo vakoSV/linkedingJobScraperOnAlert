@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-11T10:27:16.717Z",
+  "generated_at": "2026-04-11T12:27:28.383Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4398,6 +4398,86 @@
       "timestamp": "2026-04-11T10:27:14.283Z",
       "job_id": "4400302910",
       "company": "Talent Groups",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:26:19.781Z",
+      "job_id": "4387461504",
+      "company": "Highland Electric Fleets",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:26:27.668Z",
+      "job_id": "4400342837",
+      "company": "The WFS Group",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:26:35.304Z",
+      "job_id": "4400267464",
+      "company": "GE Aerospace",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:26:42.489Z",
+      "job_id": "4391375499",
+      "company": "Net2Source (N2S)",
+      "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:26:50.646Z",
+      "job_id": "4400272351",
+      "company": "GE Aerospace",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:26:57.811Z",
+      "job_id": "4400273347",
+      "company": "SavATree",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:27:05.482Z",
+      "job_id": "4398116285",
+      "company": "Eloquent AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:27:11.612Z",
+      "job_id": "4359890305",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:27:19.622Z",
+      "job_id": "4378976117",
+      "company": "System Automation Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T12:27:25.809Z",
+      "job_id": "4397295227",
+      "company": "Ledgent Technology",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
