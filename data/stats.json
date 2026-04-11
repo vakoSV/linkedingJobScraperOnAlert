@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-10T20:27:02.832Z",
+  "generated_at": "2026-04-11T06:26:55.428Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4208,6 +4208,54 @@
       "company": "vCluster",
       "country": "CA",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T06:26:16.298Z",
+      "job_id": "4314934267",
+      "company": "Signature Aviation",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T06:26:23.657Z",
+      "job_id": "4400292387",
+      "company": "Hays",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T06:26:30.458Z",
+      "job_id": "4397686520",
+      "company": "Orange County Government",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T06:26:37.609Z",
+      "job_id": "4258159275",
+      "company": "Signature Aviation",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T06:26:45.000Z",
+      "job_id": "4400326782",
+      "company": "Travel + Leisure Co.",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T06:26:52.490Z",
+      "job_id": "4400281942",
+      "company": "Hays",
+      "country": "FL",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
