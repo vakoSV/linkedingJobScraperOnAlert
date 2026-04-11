@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-11T12:27:28.383Z",
+  "generated_at": "2026-04-11T14:28:05.893Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4478,6 +4478,86 @@
       "timestamp": "2026-04-11T12:27:25.809Z",
       "job_id": "4397295227",
       "company": "Ledgent Technology",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:00.720Z",
+      "job_id": "4387736691",
+      "company": "Accuris",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:08.746Z",
+      "job_id": "4397169927",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:15.509Z",
+      "job_id": "4397628599",
+      "company": "Clover Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:21.529Z",
+      "job_id": "4369696046",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:28.604Z",
+      "job_id": "4398100991",
+      "company": "Crossing Hurdles",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:34.449Z",
+      "job_id": "4388191325",
+      "company": "Experian",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:41.693Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:49.352Z",
+      "job_id": "4398856388",
+      "company": "Omada Health",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:27:56.341Z",
+      "job_id": "4400302910",
+      "company": "Talent Groups",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T14:28:03.850Z",
+      "job_id": "4398137348",
+      "company": "Noblesoft Technologies",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
