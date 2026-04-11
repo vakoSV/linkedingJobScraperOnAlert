@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-11T06:26:55.428Z",
+  "generated_at": "2026-04-11T08:30:16.796Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4256,6 +4256,78 @@
       "company": "Hays",
       "country": "FL",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:20.267Z",
+      "job_id": "4398137348",
+      "company": "Noblesoft Technologies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:27.119Z",
+      "job_id": "4397169927",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:33.509Z",
+      "job_id": "4400302910",
+      "company": "Talent Groups",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:40.648Z",
+      "job_id": "4397170945",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:46.935Z",
+      "job_id": "4387736691",
+      "company": "Accuris",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:53.296Z",
+      "job_id": "4400584701",
+      "company": "Nightwing",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:29:59.866Z",
+      "job_id": "4400312230",
+      "company": "Apex Systems",
+      "country": "WI",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:30:07.304Z",
+      "job_id": "4400289722",
+      "company": "Wissen Technology",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-11T08:30:13.669Z",
+      "job_id": "4397184257",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
