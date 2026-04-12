@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-12T12:27:28.029Z",
+  "generated_at": "2026-04-12T14:27:24.684Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4872,6 +4872,54 @@
       "company": "Alignerr",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T14:26:44.844Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T14:26:53.231Z",
+      "job_id": "4398753116",
+      "company": "Trava Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T14:27:00.160Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T14:27:08.020Z",
+      "job_id": "4394725222",
+      "company": "Frida",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T14:27:14.808Z",
+      "job_id": "4387983990",
+      "company": "Teladoc Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T14:27:21.790Z",
+      "job_id": "4385775587",
+      "company": "FinQuery, Formerly LeaseQuery",
+      "country": "GA",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
