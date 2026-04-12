@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-11T14:28:05.893Z",
+  "generated_at": "2026-04-12T06:27:18.408Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4560,6 +4560,78 @@
       "company": "Noblesoft Technologies",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:21.273Z",
+      "job_id": "4398753116",
+      "company": "Trava Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:29.352Z",
+      "job_id": "4383970152",
+      "company": "Climate First Bank",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:35.701Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:43.483Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:50.350Z",
+      "job_id": "4387983990",
+      "company": "Teladoc Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:26:55.943Z",
+      "job_id": "4400686715",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:27:01.968Z",
+      "job_id": "4387999235",
+      "company": "Procore Technologies",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:27:09.335Z",
+      "job_id": "4398112928",
+      "company": "WM",
+      "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T06:27:15.543Z",
+      "job_id": "4399038828",
+      "company": "American Airlines",
+      "country": "MA",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
