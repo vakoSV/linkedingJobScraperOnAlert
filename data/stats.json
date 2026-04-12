@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-12T06:27:18.408Z",
+  "generated_at": "2026-04-12T08:27:28.317Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4632,6 +4632,86 @@
       "company": "American Airlines",
       "country": "MA",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:23.163Z",
+      "job_id": "4389159867",
+      "company": "Progressive Leasing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:30.092Z",
+      "job_id": "4399073347",
+      "company": "Knights of Columbus",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:36.991Z",
+      "job_id": "4398735738",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:44.067Z",
+      "job_id": "4398155289",
+      "company": "Paladin Consulting",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:50.628Z",
+      "job_id": "4400569788",
+      "company": "SPECTRAFORCE",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:26:57.239Z",
+      "job_id": "4398709598",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:27:04.704Z",
+      "job_id": "4398168737",
+      "company": "Whatnot",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:27:12.446Z",
+      "job_id": "4359850357",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:27:18.671Z",
+      "job_id": "4398753116",
+      "company": "Trava Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-12T08:27:25.506Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
