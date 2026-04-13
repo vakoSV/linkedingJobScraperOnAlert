@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T18:26:59.633Z",
+  "generated_at": "2026-04-13T20:26:54.524Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5288,6 +5288,54 @@
       "company": "Quik Hire Staffing",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T20:26:17.604Z",
+      "job_id": "4400930717",
+      "company": "Highland Electric Fleets",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T20:26:24.164Z",
+      "job_id": "4387988588",
+      "company": "BioLabs",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T20:26:30.739Z",
+      "job_id": "4400965012",
+      "company": "Actalent",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T20:26:37.251Z",
+      "job_id": "4388515439",
+      "company": "Harvard Central Administration (CADM) Talent Acquisition",
+      "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T20:26:43.769Z",
+      "job_id": "4400958347",
+      "company": "Actalent",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T20:26:51.344Z",
+      "job_id": "4325763114",
+      "company": "Mercury Systems",
+      "country": "MA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
