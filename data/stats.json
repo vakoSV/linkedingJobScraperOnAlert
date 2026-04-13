@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T14:26:59.027Z",
+  "generated_at": "2026-04-13T15:52:10.658Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5144,6 +5144,54 @@
       "company": "techolution",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T15:51:32.451Z",
+      "job_id": "4378770482",
+      "company": "Deloitte",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T15:51:40.432Z",
+      "job_id": "4395923449",
+      "company": "Jobs via Dice",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T15:51:47.314Z",
+      "job_id": "4398788874",
+      "company": "Jobs via Dice",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T15:51:53.680Z",
+      "job_id": "4369911068",
+      "company": "Deloitte",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T15:51:59.743Z",
+      "job_id": "4398777779",
+      "company": "Haystack",
+      "country": "Greater Orlando",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T15:52:07.842Z",
+      "job_id": "4400940717",
+      "company": "TAIT",
+      "country": "FL",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
