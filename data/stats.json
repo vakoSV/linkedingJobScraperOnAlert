@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T10:27:00.651Z",
+  "generated_at": "2026-04-13T12:27:10.990Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5064,6 +5064,54 @@
       "company": "Spark Life Solutions Inc",
       "country": "United States",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T12:26:31.194Z",
+      "job_id": "4370002354",
+      "company": "Harvey",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T12:26:39.498Z",
+      "job_id": "4397355625",
+      "company": "Avoca",
+      "country": "NY",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T12:26:46.365Z",
+      "job_id": "4317716631",
+      "company": "Adyen",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T12:26:53.617Z",
+      "job_id": "4400943281",
+      "company": "Jack & Jill",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T12:27:01.505Z",
+      "job_id": "4398772349",
+      "company": "Building Controls & Solutions",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T12:27:08.657Z",
+      "job_id": "4363682020",
+      "company": "SoFi",
+      "country": "CA",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
