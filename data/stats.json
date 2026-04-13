@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T08:26:57.393Z",
+  "generated_at": "2026-04-13T10:27:00.651Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5016,6 +5016,54 @@
       "company": "RemoteHunter",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:25.264Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:31.386Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:38.082Z",
+      "job_id": "4398791596",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:44.276Z",
+      "job_id": "4348471412",
+      "company": "Vanderlande",
+      "country": "GA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:52.164Z",
+      "job_id": "4388550296",
+      "company": "Nestlé",
+      "country": "SC",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T10:26:57.649Z",
+      "job_id": "4398788735",
+      "company": "Spark Life Solutions Inc",
+      "country": "United States",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
