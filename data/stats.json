@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T06:26:55.794Z",
+  "generated_at": "2026-04-13T08:26:57.393Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4966,6 +4966,54 @@
       "timestamp": "2026-04-13T06:26:52.932Z",
       "job_id": "4396390230",
       "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T08:26:17.832Z",
+      "job_id": "4342567975",
+      "company": "Fleetio",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T08:26:25.238Z",
+      "job_id": "4306226923",
+      "company": "TrustNet Technologies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T08:26:32.227Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T08:26:39.666Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T08:26:47.599Z",
+      "job_id": "4399102335",
+      "company": "TikTok",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T08:26:54.436Z",
+      "job_id": "4398791596",
+      "company": "RemoteHunter",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
