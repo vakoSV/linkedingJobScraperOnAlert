@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-12T14:27:24.684Z",
+  "generated_at": "2026-04-13T06:26:55.794Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -4920,6 +4920,54 @@
       "company": "FinQuery, Formerly LeaseQuery",
       "country": "GA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T06:26:18.187Z",
+      "job_id": "4342567975",
+      "company": "Fleetio",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T06:26:25.923Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T06:26:33.550Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T06:26:40.006Z",
+      "job_id": "4400948996",
+      "company": "BioSpace",
+      "country": "NC",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T06:26:46.683Z",
+      "job_id": "4398791596",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T06:26:52.932Z",
+      "job_id": "4396390230",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
