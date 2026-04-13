@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T15:52:10.658Z",
+  "generated_at": "2026-04-13T16:27:05.511Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5192,6 +5192,54 @@
       "company": "TAIT",
       "country": "FL",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T16:26:26.880Z",
+      "job_id": "4342567975",
+      "company": "Fleetio",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T16:26:34.742Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T16:26:41.356Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T16:26:48.849Z",
+      "job_id": "4398798307",
+      "company": "techolution",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T16:26:56.259Z",
+      "job_id": "4400948996",
+      "company": "BioSpace",
+      "country": "NC",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T16:27:02.353Z",
+      "job_id": "4398791596",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
