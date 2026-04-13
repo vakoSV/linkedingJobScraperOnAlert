@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T20:26:54.524Z",
+  "generated_at": "2026-04-13T22:27:01.461Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5336,6 +5336,54 @@
       "company": "Mercury Systems",
       "country": "MA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T22:26:22.369Z",
+      "job_id": "4306226923",
+      "company": "TrustNet Technologies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T22:26:30.312Z",
+      "job_id": "4379242538",
+      "company": "Tricentis",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T22:26:37.198Z",
+      "job_id": "4398791596",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T22:26:43.377Z",
+      "job_id": "4400943281",
+      "company": "Jack & Jill",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T22:26:50.744Z",
+      "job_id": "4400984935",
+      "company": "Meta Power Solutions",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-13T22:26:58.648Z",
+      "job_id": "4399101173",
+      "company": "Future",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
