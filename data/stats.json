@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-13T22:27:01.461Z",
+  "generated_at": "2026-04-14T00:26:54.282Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5382,6 +5382,54 @@
       "timestamp": "2026-04-13T22:26:58.648Z",
       "job_id": "4399101173",
       "company": "Future",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T00:26:17.814Z",
+      "job_id": "4398750509",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T00:26:24.573Z",
+      "job_id": "4378683815",
+      "company": "phData",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T00:26:31.203Z",
+      "job_id": "4388589512",
+      "company": "Guidehouse",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T00:26:37.542Z",
+      "job_id": "4398778729",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T00:26:44.735Z",
+      "job_id": "4396351556",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T00:26:51.538Z",
+      "job_id": "4378791819",
+      "company": "Ad Hoc LLC",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
