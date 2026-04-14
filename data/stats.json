@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T02:26:51.235Z",
+  "generated_at": "2026-04-14T06:27:41.905Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5478,6 +5478,54 @@
       "timestamp": "2026-04-14T02:26:48.198Z",
       "job_id": "4376216536",
       "company": "C3 AI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T06:27:02.108Z",
+      "job_id": "4398116285",
+      "company": "Eloquent AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T06:27:09.731Z",
+      "job_id": "4369892753",
+      "company": "Figma",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T06:27:17.628Z",
+      "job_id": "4318502361",
+      "company": "Rillet",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T06:27:25.301Z",
+      "job_id": "4365694653",
+      "company": "Atlassian",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T06:27:32.756Z",
+      "job_id": "4286304453",
+      "company": "HappyRobot",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T06:27:38.834Z",
+      "job_id": "4392425538",
+      "company": "TalentCo",
       "country": "CA",
       "workplace_type": "Not Specified",
       "success_status": "success"
