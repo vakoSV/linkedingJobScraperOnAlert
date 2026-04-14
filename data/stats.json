@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T16:27:06.069Z",
+  "generated_at": "2026-04-14T18:27:25.082Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5767,6 +5767,54 @@
       "job_id": "4399120549",
       "company": "Jobs via Dice",
       "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T18:26:45.480Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T18:26:53.277Z",
+      "job_id": "4399631143",
+      "company": "Crossing Hurdles",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T18:27:01.394Z",
+      "job_id": "4401088705",
+      "company": "Quik Hire Staffing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T18:27:08.941Z",
+      "job_id": "4399612712",
+      "company": "Crossing Hurdles",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T18:27:15.224Z",
+      "job_id": "4401061057",
+      "company": "Quik Hire Staffing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T18:27:21.842Z",
+      "job_id": "4389005998",
+      "company": "Mercor",
+      "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
     }
