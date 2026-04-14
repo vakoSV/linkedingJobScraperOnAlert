@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T06:27:41.905Z",
+  "generated_at": "2026-04-14T08:28:35.753Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5528,6 +5528,38 @@
       "company": "TalentCo",
       "country": "CA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T08:28:11.297Z",
+      "job_id": "4394384029",
+      "company": "JRD Systems",
+      "country": "MI",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T08:28:18.610Z",
+      "job_id": "4398116285",
+      "company": "Eloquent AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T08:28:24.983Z",
+      "job_id": "4399106558",
+      "company": "arrivia",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T08:28:32.800Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
