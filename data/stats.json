@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T15:52:10.624Z",
+  "generated_at": "2026-04-14T16:27:06.069Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5719,6 +5719,54 @@
       "job_id": "4361067175",
       "company": "Celigo",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T16:26:29.083Z",
+      "job_id": "4401314283",
+      "company": "Mitsubishi Power Americas",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T16:26:35.638Z",
+      "job_id": "4399649237",
+      "company": "Beckhoff Automation USA",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T16:26:43.176Z",
+      "job_id": "4401321059",
+      "company": "Mitsubishi Power Americas",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T16:26:50.131Z",
+      "job_id": "4369582756",
+      "company": "PwC",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T16:26:56.743Z",
+      "job_id": "4395461851",
+      "company": "Optomi",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T16:27:03.059Z",
+      "job_id": "4399120549",
+      "company": "Jobs via Dice",
+      "country": "FL",
       "workplace_type": "Remote",
       "success_status": "success"
     }
