@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T12:27:40.810Z",
+  "generated_at": "2026-04-14T14:27:20.510Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5624,6 +5624,54 @@
       "company": "Energie Solutions LLC",
       "country": "AL",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T14:26:40.215Z",
+      "job_id": "4306226923",
+      "company": "TrustNet Technologies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T14:26:48.425Z",
+      "job_id": "4401085974",
+      "company": "Agile Tech Labs",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T14:26:55.315Z",
+      "job_id": "4401025209",
+      "company": "Addition Management",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T14:27:03.464Z",
+      "job_id": "4399614005",
+      "company": "techolution",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T14:27:11.329Z",
+      "job_id": "4401312059",
+      "company": "FUSTIS LLC",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T14:27:16.875Z",
+      "job_id": "4361067175",
+      "company": "Celigo",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
