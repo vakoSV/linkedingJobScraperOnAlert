@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T00:26:54.282Z",
+  "generated_at": "2026-04-14T02:26:51.235Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5432,6 +5432,54 @@
       "company": "Ad Hoc LLC",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T02:26:14.199Z",
+      "job_id": "4400965029",
+      "company": "Celerity",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T02:26:20.587Z",
+      "job_id": "4359247806",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T02:26:27.813Z",
+      "job_id": "4359199009",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T02:26:35.063Z",
+      "job_id": "4317716631",
+      "company": "Adyen",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T02:26:41.700Z",
+      "job_id": "4400961211",
+      "company": "Bland",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T02:26:48.198Z",
+      "job_id": "4376216536",
+      "company": "C3 AI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
