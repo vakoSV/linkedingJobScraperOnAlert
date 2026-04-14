@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T10:26:24.555Z",
+  "generated_at": "2026-04-14T12:27:40.810Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5576,6 +5576,54 @@
       "company": "CloudHire",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T12:27:01.784Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T12:27:10.175Z",
+      "job_id": "4401025209",
+      "company": "Addition Management",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T12:27:17.473Z",
+      "job_id": "4401085974",
+      "company": "Agile Tech Labs",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T12:27:24.131Z",
+      "job_id": "4399106558",
+      "company": "arrivia",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T12:27:31.142Z",
+      "job_id": "4398116285",
+      "company": "Eloquent AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T12:27:38.467Z",
+      "job_id": "4399662692",
+      "company": "Energie Solutions LLC",
+      "country": "AL",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
