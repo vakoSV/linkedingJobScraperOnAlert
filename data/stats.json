@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T08:28:35.753Z",
+  "generated_at": "2026-04-14T10:26:24.555Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5558,6 +5558,22 @@
       "timestamp": "2026-04-14T08:28:32.800Z",
       "job_id": "4400900048",
       "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T10:26:13.210Z",
+      "job_id": "4342567975",
+      "company": "Fleetio",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T10:26:21.460Z",
+      "job_id": "4399167704",
+      "company": "CloudHire",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
