@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-14T20:27:09.728Z",
+  "generated_at": "2026-04-14T22:27:05.230Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5864,6 +5864,54 @@
       "company": "FIFA World Cup 2026™ - Canada, Mexico and the United States",
       "country": "MA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T22:26:26.444Z",
+      "job_id": "4322199937",
+      "company": "Anthropic",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T22:26:34.530Z",
+      "job_id": "4322129943",
+      "company": "Anthropic",
+      "country": "WA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T22:26:42.618Z",
+      "job_id": "4389604226",
+      "company": "Scout Global",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T22:26:49.738Z",
+      "job_id": "4369894618",
+      "company": "Harvey",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T22:26:57.281Z",
+      "job_id": "4401093383",
+      "company": "DRS IT Solutions Inc",
+      "country": "GA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-14T22:27:02.180Z",
+      "job_id": "4401022958",
+      "company": "Alignerr",
+      "country": "FL",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
