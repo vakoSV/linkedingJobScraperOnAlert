@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-15T10:27:19.210Z",
+  "generated_at": "2026-04-15T12:27:23.072Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6174,6 +6174,54 @@
       "timestamp": "2026-04-15T10:27:16.125Z",
       "job_id": "4400900048",
       "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T12:26:44.619Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T12:26:53.319Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T12:27:00.390Z",
+      "job_id": "4400686715",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T12:27:07.207Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T12:27:14.227Z",
+      "job_id": "4399690647",
+      "company": "Arrowmac",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T12:27:19.928Z",
+      "job_id": "4400765948",
+      "company": "Brooksource",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
