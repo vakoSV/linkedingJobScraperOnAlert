@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-15T00:26:54.769Z",
+  "generated_at": "2026-04-15T06:34:36.187Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -5958,6 +5958,78 @@
       "timestamp": "2026-04-15T00:26:51.861Z",
       "job_id": "4399169060",
       "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:33:37.027Z",
+      "job_id": "4400016754",
+      "company": "Ishpi Information Technologies, Inc. (DBA ISHPI)",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:33:45.448Z",
+      "job_id": "4401340968",
+      "company": "LMI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:33:51.708Z",
+      "job_id": "4399687584",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:33:59.007Z",
+      "job_id": "4400027935",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:34:06.764Z",
+      "job_id": "4399691471",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:34:12.742Z",
+      "job_id": "4400036417",
+      "company": "Jobs via Dice",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:34:19.738Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:34:26.903Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T06:34:33.137Z",
+      "job_id": "4399692424",
+      "company": "White Label Storage",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
