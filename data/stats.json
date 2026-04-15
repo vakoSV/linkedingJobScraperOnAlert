@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-15T06:34:36.187Z",
+  "generated_at": "2026-04-15T08:27:14.220Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6032,6 +6032,78 @@
       "company": "White Label Storage",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:16.804Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:23.520Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:30.398Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:37.809Z",
+      "job_id": "4399692018",
+      "company": "Interplay Learning",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:45.245Z",
+      "job_id": "4399690647",
+      "company": "Arrowmac",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:51.631Z",
+      "job_id": "4400023840",
+      "company": "Intapp",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:26:58.447Z",
+      "job_id": "4401101516",
+      "company": "Insight Global",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:27:04.979Z",
+      "job_id": "4398204202",
+      "company": "Observe.AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T08:27:11.312Z",
+      "job_id": "4399253747",
+      "company": "Motion Recruitment",
+      "country": "CA",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
