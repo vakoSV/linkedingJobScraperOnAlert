@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-15T08:27:14.220Z",
+  "generated_at": "2026-04-15T10:27:19.210Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6104,6 +6104,78 @@
       "company": "Motion Recruitment",
       "country": "CA",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:26:21.054Z",
+      "job_id": "4399692424",
+      "company": "White Label Storage",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:26:29.052Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:26:36.305Z",
+      "job_id": "4400686715",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:26:42.726Z",
+      "job_id": "4400764397",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:26:49.489Z",
+      "job_id": "4400765334",
+      "company": "techolution",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:26:57.217Z",
+      "job_id": "4399690647",
+      "company": "Arrowmac",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:27:02.879Z",
+      "job_id": "4389237525",
+      "company": "Daley And Associates, LLC",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:27:09.107Z",
+      "job_id": "4399642200",
+      "company": "Beacon Hill",
+      "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-15T10:27:16.125Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
