@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-16T06:28:09.629Z",
+  "generated_at": "2026-04-16T08:29:18.070Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6382,6 +6382,86 @@
       "timestamp": "2026-04-16T06:28:06.551Z",
       "job_id": "4402279125",
       "company": "Joveo Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:11.327Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:19.236Z",
+      "job_id": "4402545093",
+      "company": "Punt",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:26.243Z",
+      "job_id": "4386954783",
+      "company": "Phusion Projects",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:32.988Z",
+      "job_id": "4399901700",
+      "company": "Fetch",
+      "country": "WI",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:39.684Z",
+      "job_id": "4385261069",
+      "company": "CareSource",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:47.588Z",
+      "job_id": "4402086674",
+      "company": "LABUR",
+      "country": "CO",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:28:54.066Z",
+      "job_id": "4402055994",
+      "company": "Airspace",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:29:01.675Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:29:08.886Z",
+      "job_id": "4402046210",
+      "company": "MPower Plus",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T08:29:15.040Z",
+      "job_id": "4400765334",
+      "company": "techolution",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
