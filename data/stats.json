@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-16T10:26:51.838Z",
+  "generated_at": "2026-04-16T12:27:24.419Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6512,6 +6512,86 @@
       "company": "Hopper",
       "country": "IL",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:26:18.387Z",
+      "job_id": "4402055994",
+      "company": "Airspace",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:26:26.975Z",
+      "job_id": "4401458149",
+      "company": "Benefits All In",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:26:34.967Z",
+      "job_id": "4402021091",
+      "company": "StevenDouglas",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:26:41.064Z",
+      "job_id": "4385261069",
+      "company": "CareSource",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:26:47.950Z",
+      "job_id": "4402293895",
+      "company": "Vantage Point Consulting Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:26:55.751Z",
+      "job_id": "4399968739",
+      "company": "TPI Global Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:27:02.408Z",
+      "job_id": "4386954783",
+      "company": "Phusion Projects",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:27:09.291Z",
+      "job_id": "4401110994",
+      "company": "KeyBank",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:27:15.816Z",
+      "job_id": "4399927067",
+      "company": "GC AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T12:27:22.571Z",
+      "job_id": "4401775427",
+      "company": "PayPal",
+      "country": "AZ",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
