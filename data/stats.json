@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-15T14:30:32.423Z",
+  "generated_at": "2026-04-16T06:28:09.629Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6304,6 +6304,86 @@
       "company": "Eightfold AI",
       "country": "CA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:04.875Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:12.188Z",
+      "job_id": "4402055994",
+      "company": "Airspace",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:19.814Z",
+      "job_id": "4401451101",
+      "company": "Applied Systems",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:27.416Z",
+      "job_id": "4399792723",
+      "company": "Fetch",
+      "country": "WI",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:35.299Z",
+      "job_id": "4398908298",
+      "company": "Ncontracts",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:40.704Z",
+      "job_id": "4402542120",
+      "company": "Flosum",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:47.205Z",
+      "job_id": "4401149135",
+      "company": "Scribd, Inc.",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:54.208Z",
+      "job_id": "4402233440",
+      "company": "Avantor",
+      "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:27:59.939Z",
+      "job_id": "4402278260",
+      "company": "Joveo Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T06:28:06.551Z",
+      "job_id": "4402279125",
+      "company": "Joveo Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
