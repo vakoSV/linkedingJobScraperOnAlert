@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-16T08:29:18.070Z",
+  "generated_at": "2026-04-16T10:26:51.838Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6463,6 +6463,54 @@
       "job_id": "4400765334",
       "company": "techolution",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T10:26:13.331Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T10:26:21.445Z",
+      "job_id": "4389854272",
+      "company": "Texas Instruments",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T10:26:28.703Z",
+      "job_id": "4389848503",
+      "company": "Hopper",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T10:26:36.385Z",
+      "job_id": "4402230075",
+      "company": "BioSpace",
+      "country": "IL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T10:26:42.605Z",
+      "job_id": "4402236106",
+      "company": "Optimum",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-16T10:26:48.828Z",
+      "job_id": "4389854277",
+      "company": "Hopper",
+      "country": "IL",
       "workplace_type": "Remote",
       "success_status": "success"
     }
