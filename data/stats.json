@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-17T12:27:42.093Z",
+  "generated_at": "2026-04-17T14:27:10.686Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6943,6 +6943,70 @@
       "job_id": "4380506356",
       "company": "Encore Fire Protection",
       "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:26:20.382Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:26:27.674Z",
+      "job_id": "4402603486",
+      "company": "Tundra Technical Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:26:34.325Z",
+      "job_id": "4400686715",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:26:41.447Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:26:48.453Z",
+      "job_id": "4401804035",
+      "company": "Brooksource",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:26:55.694Z",
+      "job_id": "4370939905",
+      "company": "General Motors",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:27:01.145Z",
+      "job_id": "4402192129",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T14:27:08.022Z",
+      "job_id": "4400464123",
+      "company": "Groundswell",
+      "country": "United States",
       "workplace_type": "On-site",
       "success_status": "success"
     }
