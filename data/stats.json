@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-16T14:31:18.789Z",
+  "generated_at": "2026-04-17T06:27:56.236Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -6671,6 +6671,78 @@
       "job_id": "4402250055",
       "company": "Treehouse",
       "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:26:58.304Z",
+      "job_id": "4402114019",
+      "company": "Cotiviti",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:05.060Z",
+      "job_id": "4402293895",
+      "company": "Vantage Point Consulting Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:12.845Z",
+      "job_id": "4381176108",
+      "company": "CrossVue",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:20.325Z",
+      "job_id": "4401819431",
+      "company": "Spatial Front, Inc",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:26.979Z",
+      "job_id": "4401468579",
+      "company": "Abel Solutions",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:33.678Z",
+      "job_id": "4402502411",
+      "company": "Guidehouse",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:39.595Z",
+      "job_id": "4402603486",
+      "company": "Tundra Technical Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:46.440Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-17T06:27:53.137Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
     }
