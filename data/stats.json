@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-17T14:27:10.686Z",
+  "generated_at": "2026-04-18T06:27:51.411Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7008,6 +7008,86 @@
       "company": "Groundswell",
       "country": "United States",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:26:47.138Z",
+      "job_id": "4402370332",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:26:55.344Z",
+      "job_id": "4402374290",
+      "company": "Jobgether",
+      "country": "OH",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:01.210Z",
+      "job_id": "4403118478",
+      "company": "Hays",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:07.624Z",
+      "job_id": "4371186802",
+      "company": "Cypress HCM",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:13.995Z",
+      "job_id": "4402189680",
+      "company": "Living Security",
+      "country": "Texas Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:21.529Z",
+      "job_id": "4402180383",
+      "company": "CyberCoders",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:27.620Z",
+      "job_id": "4403503260",
+      "company": "LaunchPad Lab",
+      "country": "IL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:34.079Z",
+      "job_id": "4402746525",
+      "company": "Unknown",
+      "country": "Unknown",
+      "workplace_type": "Not Specified",
+      "success_status": "failed"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:41.591Z",
+      "job_id": "4400686715",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-18T06:27:49.342Z",
+      "job_id": "4400900048",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
