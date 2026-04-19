@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-19T12:26:47.489Z",
+  "generated_at": "2026-04-19T14:27:10.585Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7623,6 +7623,70 @@
       "job_id": "4403825859",
       "company": "Lotz Agency",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:26:18.201Z",
+      "job_id": "4402752400",
+      "company": "QuSecure",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:26:24.969Z",
+      "job_id": "4371596930",
+      "company": "Figma",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:26:31.847Z",
+      "job_id": "4403562831",
+      "company": "Sophos",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:26:38.891Z",
+      "job_id": "4371708090",
+      "company": "Figma",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:26:46.544Z",
+      "job_id": "4403575650",
+      "company": "Sev1Tech LLC",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:26:54.480Z",
+      "job_id": "4403035489",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:27:00.266Z",
+      "job_id": "4365224770",
+      "company": "OpenAI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T14:27:07.656Z",
+      "job_id": "4403503260",
+      "company": "LaunchPad Lab",
+      "country": "IL",
       "workplace_type": "Remote",
       "success_status": "success"
     }
