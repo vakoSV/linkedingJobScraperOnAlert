@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-19T10:27:13.359Z",
+  "generated_at": "2026-04-19T12:26:47.489Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7576,6 +7576,54 @@
       "company": "Rowspace",
       "country": "CA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T12:26:13.168Z",
+      "job_id": "4390297197",
+      "company": "Mozilla",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T12:26:20.142Z",
+      "job_id": "4403837484",
+      "company": "Jobs Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T12:26:26.904Z",
+      "job_id": "4391746032",
+      "company": "Grafana Labs",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T12:26:32.794Z",
+      "job_id": "4403807252",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T12:26:39.355Z",
+      "job_id": "4391238097",
+      "company": "Voxel",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T12:26:45.807Z",
+      "job_id": "4403825859",
+      "company": "Lotz Agency",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
