@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-19T06:27:28.661Z",
+  "generated_at": "2026-04-19T08:27:17.466Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7423,6 +7423,86 @@
       "job_id": "4400931039",
       "company": "Synchrony",
       "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:12.169Z",
+      "job_id": "4403562831",
+      "company": "Sophos",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:19.914Z",
+      "job_id": "4379105923",
+      "company": "ClickUp",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:27.017Z",
+      "job_id": "4403523112",
+      "company": "Coveo",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:33.712Z",
+      "job_id": "4403570718",
+      "company": "Baserow",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:41.807Z",
+      "job_id": "4403548667",
+      "company": "Wake County",
+      "country": "NC",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:47.058Z",
+      "job_id": "4342371638",
+      "company": "Connor Group",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:26:53.596Z",
+      "job_id": "4402752400",
+      "company": "QuSecure",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:27:00.556Z",
+      "job_id": "4402702869",
+      "company": "Ledgent Technology",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:27:07.651Z",
+      "job_id": "4402742328",
+      "company": "FootBridge",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T08:27:14.715Z",
+      "job_id": "4393143472",
+      "company": "ElevateBio",
+      "country": "MA",
       "workplace_type": "Not Specified",
       "success_status": "success"
     }
