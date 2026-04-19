@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-19T08:27:17.466Z",
+  "generated_at": "2026-04-19T10:27:13.359Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7503,6 +7503,78 @@
       "job_id": "4393143472",
       "company": "ElevateBio",
       "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:13.769Z",
+      "job_id": "4402752400",
+      "company": "QuSecure",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:21.814Z",
+      "job_id": "4371596930",
+      "company": "Figma",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:29.741Z",
+      "job_id": "4403562831",
+      "company": "Sophos",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:35.891Z",
+      "job_id": "4371708090",
+      "company": "Figma",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:42.472Z",
+      "job_id": "4403827291",
+      "company": "Joveo Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:49.911Z",
+      "job_id": "4403839373",
+      "company": "Joveo Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:26:56.053Z",
+      "job_id": "4393202593",
+      "company": "DeWinter Group",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:27:02.644Z",
+      "job_id": "4371701763",
+      "company": "Vapi",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T10:27:10.554Z",
+      "job_id": "4402760488",
+      "company": "Rowspace",
+      "country": "CA",
       "workplace_type": "Not Specified",
       "success_status": "success"
     }
