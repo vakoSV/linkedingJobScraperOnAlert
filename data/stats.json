@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-18T14:30:27.105Z",
+  "generated_at": "2026-04-19T06:27:28.661Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7352,6 +7352,78 @@
       "company": "North American Risk Services (NARS)",
       "country": "FL",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:26:30.059Z",
+      "job_id": "4402752400",
+      "company": "QuSecure",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:26:37.722Z",
+      "job_id": "4403562831",
+      "company": "Sophos",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:26:44.382Z",
+      "job_id": "4371596930",
+      "company": "Figma",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:26:51.499Z",
+      "job_id": "4371708090",
+      "company": "Figma",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:26:57.514Z",
+      "job_id": "4402748761",
+      "company": "techolution",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:27:03.847Z",
+      "job_id": "4402775878",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:27:11.846Z",
+      "job_id": "4400858118",
+      "company": "General Devices (GD)",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:27:18.483Z",
+      "job_id": "4400934006",
+      "company": "Synchrony",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-19T06:27:25.701Z",
+      "job_id": "4400931039",
+      "company": "Synchrony",
+      "country": "FL",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
