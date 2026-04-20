@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-20T10:27:23.777Z",
+  "generated_at": "2026-04-20T12:27:32.577Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7912,6 +7912,86 @@
       "company": "Vestmark",
       "country": "Greater Boston",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:26:25.652Z",
+      "job_id": "4392304960",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:26:33.330Z",
+      "job_id": "4365231691",
+      "company": "OpenAI",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:26:40.924Z",
+      "job_id": "4372782720",
+      "company": "Gong",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:26:47.470Z",
+      "job_id": "4319499798",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:26:55.630Z",
+      "job_id": "4372787498",
+      "company": "Gong",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:27:02.279Z",
+      "job_id": "4403308109",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:27:09.175Z",
+      "job_id": "4403863207",
+      "company": "Baserow",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:27:15.332Z",
+      "job_id": "4371871738",
+      "company": "BMC Software",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:27:22.769Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T12:27:30.396Z",
+      "job_id": "4392314424",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
