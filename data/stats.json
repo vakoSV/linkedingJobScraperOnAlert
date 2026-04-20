@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-20T08:27:33.716Z",
+  "generated_at": "2026-04-20T10:27:23.777Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7832,6 +7832,86 @@
       "company": "Grafana Labs",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:26:17.370Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:26:25.697Z",
+      "job_id": "4392314424",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:26:31.961Z",
+      "job_id": "4403865460",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:26:39.528Z",
+      "job_id": "4392304960",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:26:46.153Z",
+      "job_id": "4403870377",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:26:53.162Z",
+      "job_id": "4382188396",
+      "company": "BlueCross BlueShield of Tennessee",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:27:01.141Z",
+      "job_id": "4319499798",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:27:07.383Z",
+      "job_id": "4372787498",
+      "company": "Gong",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:27:14.178Z",
+      "job_id": "4392340436",
+      "company": "Harvard University Graduate School of Design",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T10:27:21.341Z",
+      "job_id": "4391770388",
+      "company": "Vestmark",
+      "country": "Greater Boston",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
