@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-20T06:27:12.354Z",
+  "generated_at": "2026-04-20T08:27:33.716Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7750,6 +7750,86 @@
       "timestamp": "2026-04-20T06:27:08.905Z",
       "job_id": "4403870377",
       "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:26:26.324Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:26:33.452Z",
+      "job_id": "4403865460",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:26:40.983Z",
+      "job_id": "4392314424",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:26:48.053Z",
+      "job_id": "4403870377",
+      "company": "Alignerr",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:26:54.717Z",
+      "job_id": "4392304960",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:27:01.388Z",
+      "job_id": "4382188396",
+      "company": "BlueCross BlueShield of Tennessee",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:27:08.764Z",
+      "job_id": "4382108687",
+      "company": "Aptos Retail",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:27:16.020Z",
+      "job_id": "4319499798",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:27:23.940Z",
+      "job_id": "4403839373",
+      "company": "Joveo Ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-20T08:27:31.476Z",
+      "job_id": "4346438948",
+      "company": "Grafana Labs",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
