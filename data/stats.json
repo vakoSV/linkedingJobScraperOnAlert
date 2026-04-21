@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-21T12:27:17.563Z",
+  "generated_at": "2026-04-21T14:28:42.828Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -8183,6 +8183,86 @@
       "job_id": "4401650305",
       "company": "Horizontal Talent",
       "country": "MN",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:27:36.539Z",
+      "job_id": "4347991518",
+      "company": "Stainless",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:27:42.946Z",
+      "job_id": "4404311858",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:27:50.767Z",
+      "job_id": "4404096055",
+      "company": "Quik Hire Staffing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:27:57.137Z",
+      "job_id": "4404315213",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:28:05.084Z",
+      "job_id": "4403645046",
+      "company": "Polygon Labs",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:28:12.674Z",
+      "job_id": "4404013754",
+      "company": "Lumenalta",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:28:19.893Z",
+      "job_id": "4404016593",
+      "company": "Addition Management",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:28:26.134Z",
+      "job_id": "4404046363",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:28:34.019Z",
+      "job_id": "4381229068",
+      "company": "TaskUs",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T14:28:40.937Z",
+      "job_id": "4395480430",
+      "company": "Stott and May",
+      "country": "Los Angeles Metropolitan Area",
       "workplace_type": "Remote",
       "success_status": "success"
     }
