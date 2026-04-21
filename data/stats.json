@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-20T12:27:32.577Z",
+  "generated_at": "2026-04-21T06:27:10.201Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -7991,6 +7991,70 @@
       "job_id": "4392314424",
       "company": "Aspire Software",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:26:18.083Z",
+      "job_id": "4391180729",
+      "company": "Exbo Group",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:26:23.748Z",
+      "job_id": "4401273877",
+      "company": "ZOE Holding Company",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:26:31.049Z",
+      "job_id": "4404016711",
+      "company": "Unstructured",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:26:38.584Z",
+      "job_id": "4401647275",
+      "company": "Innovatus Technology Consulting",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:26:46.271Z",
+      "job_id": "4331746721",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:26:53.564Z",
+      "job_id": "4341945995",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:27:00.697Z",
+      "job_id": "4385050577",
+      "company": "Cyient",
+      "country": "GA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-21T06:27:07.227Z",
+      "job_id": "4310237260",
+      "company": "Qualcomm",
+      "country": "CA",
       "workplace_type": "Remote",
       "success_status": "success"
     }
