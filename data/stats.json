@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-23T14:36:40.805Z",
+  "generated_at": "2026-04-24T06:27:10.062Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9062,6 +9062,62 @@
       "timestamp": "2026-04-23T14:36:38.787Z",
       "job_id": "4405248120",
       "company": "Vaiticka Solution",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:26:26.530Z",
+      "job_id": "4404488059",
+      "company": "Capstone Technology Resources, Inc. (Capstone)",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:26:32.953Z",
+      "job_id": "4402491285",
+      "company": "Omada Health",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:26:38.299Z",
+      "job_id": "4405456516",
+      "company": "SPECTRAFORCE",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:26:45.909Z",
+      "job_id": "4402481866",
+      "company": "Omada Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:26:53.366Z",
+      "job_id": "4404724490",
+      "company": "Jobgether",
+      "country": "OH",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:26:59.697Z",
+      "job_id": "4405442732",
+      "company": "Beyondsoft",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T06:27:06.973Z",
+      "job_id": "4404727444",
+      "company": "Jobgether",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
