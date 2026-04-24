@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-24T06:27:10.062Z",
+  "generated_at": "2026-04-24T08:28:13.486Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9118,6 +9118,78 @@
       "timestamp": "2026-04-24T06:27:06.973Z",
       "job_id": "4404727444",
       "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:20.119Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:26.654Z",
+      "job_id": "4404226719",
+      "company": "brightwheel",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:32.900Z",
+      "job_id": "4404727444",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:38.944Z",
+      "job_id": "4384107131",
+      "company": "Hightouch",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:45.074Z",
+      "job_id": "4405482811",
+      "company": "Quandary Consulting Group",
+      "country": "CO",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:51.903Z",
+      "job_id": "4402878135",
+      "company": "OpsMill",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:27:58.133Z",
+      "job_id": "4402847558",
+      "company": "Observe.AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:28:04.657Z",
+      "job_id": "4382579965",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T08:28:10.574Z",
+      "job_id": "4404488059",
+      "company": "Capstone Technology Resources, Inc. (Capstone)",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
