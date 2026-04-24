@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-24T10:27:19.695Z",
+  "generated_at": "2026-04-24T12:27:23.175Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9272,6 +9272,86 @@
       "company": "GE Aerospace",
       "country": "MA",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:26:18.907Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:26:26.687Z",
+      "job_id": "4404226719",
+      "company": "brightwheel",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:26:33.865Z",
+      "job_id": "4404727444",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:26:40.088Z",
+      "job_id": "4405456516",
+      "company": "SPECTRAFORCE",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:26:47.669Z",
+      "job_id": "4405694266",
+      "company": "Applicantz",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:26:54.495Z",
+      "job_id": "4405692395",
+      "company": "100x",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:27:01.259Z",
+      "job_id": "4405635282",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:27:07.922Z",
+      "job_id": "4403231044",
+      "company": "Aurrum Services",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:27:14.780Z",
+      "job_id": "4375021622",
+      "company": "Podium",
+      "country": "UT",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T12:27:21.449Z",
+      "job_id": "4396273301",
+      "company": "CyberCoders",
+      "country": "CA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
