@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-24T08:28:13.486Z",
+  "generated_at": "2026-04-24T10:27:19.695Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9191,6 +9191,86 @@
       "job_id": "4404488059",
       "company": "Capstone Technology Resources, Inc. (Capstone)",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:16.593Z",
+      "job_id": "4390873729",
+      "company": "Beech Valley Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:24.526Z",
+      "job_id": "4404226719",
+      "company": "brightwheel",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:30.841Z",
+      "job_id": "4405456516",
+      "company": "SPECTRAFORCE",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:38.001Z",
+      "job_id": "4404727444",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:45.233Z",
+      "job_id": "4405694266",
+      "company": "Applicantz",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:51.151Z",
+      "job_id": "4395210975",
+      "company": "Particle Measuring Systems",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:26:58.241Z",
+      "job_id": "4405643920",
+      "company": "Quik Hire Staffing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:27:04.867Z",
+      "job_id": "4405655628",
+      "company": "Quik Hire Staffing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:27:11.475Z",
+      "job_id": "4405629204",
+      "company": "Aramark",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-24T10:27:17.386Z",
+      "job_id": "4405674131",
+      "company": "GE Aerospace",
+      "country": "MA",
       "workplace_type": "Remote",
       "success_status": "success"
     }
