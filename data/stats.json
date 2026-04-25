@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T16:27:08.740Z",
+  "generated_at": "2026-04-25T18:26:53.708Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9768,6 +9768,54 @@
       "company": "Vertiv",
       "country": "CA",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T18:26:15.177Z",
+      "job_id": "4406115878",
+      "company": "Northbeam",
+      "country": "NY",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T18:26:22.778Z",
+      "job_id": "4406119958",
+      "company": "Hebbia",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T18:26:29.086Z",
+      "job_id": "4399993755",
+      "company": "Scout Global",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T18:26:35.241Z",
+      "job_id": "4385300166",
+      "company": "General Motors",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T18:26:43.224Z",
+      "job_id": "4373305080",
+      "company": "Anthropic",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T18:26:50.803Z",
+      "job_id": "4373087640",
+      "company": "Anthropic",
+      "country": "WA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
