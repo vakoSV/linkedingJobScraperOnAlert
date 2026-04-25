@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T08:27:13.676Z",
+  "generated_at": "2026-04-25T10:26:48.549Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9528,6 +9528,54 @@
       "company": "Ladders",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T10:26:12.500Z",
+      "job_id": "4371986806",
+      "company": "Vicor",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T10:26:19.482Z",
+      "job_id": "4405877571",
+      "company": "MatrixSpace",
+      "country": "MA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T10:26:26.311Z",
+      "job_id": "4403734857",
+      "company": "Careers In Travel | Destination Planners",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T10:26:32.851Z",
+      "job_id": "4403227247",
+      "company": "Masis Professional Group",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T10:26:39.160Z",
+      "job_id": "4373378771",
+      "company": "ZOLL Medical Corporation",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T10:26:46.463Z",
+      "job_id": "4395272153",
+      "company": "MongoDB",
+      "country": "MA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
