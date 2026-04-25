@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T12:26:51.754Z",
+  "generated_at": "2026-04-25T14:27:13.746Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9624,6 +9624,54 @@
       "company": "Cognizant",
       "country": "FL",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T14:26:35.490Z",
+      "job_id": "4367156880",
+      "company": "Sharp Decisions",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T14:26:43.147Z",
+      "job_id": "4406103177",
+      "company": "Unframe",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T14:26:51.053Z",
+      "job_id": "4397172926",
+      "company": "Antares Capital LP",
+      "country": "New York City Metropolitan Area",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T14:26:57.918Z",
+      "job_id": "4403269326",
+      "company": "Revin Inc.",
+      "country": "NY",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T14:27:04.267Z",
+      "job_id": "4403788510",
+      "company": "CoreWeave",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T14:27:10.725Z",
+      "job_id": "4405352380",
+      "company": "Hearst",
+      "country": "NY",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
