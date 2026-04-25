@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T14:27:13.746Z",
+  "generated_at": "2026-04-25T15:51:49.367Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9671,6 +9671,54 @@
       "job_id": "4405352380",
       "company": "Hearst",
       "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T15:51:11.087Z",
+      "job_id": "4406117852",
+      "company": "Cornelis Networks",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T15:51:18.976Z",
+      "job_id": "4375015196",
+      "company": "Vista Equity Partners",
+      "country": "IL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T15:51:26.135Z",
+      "job_id": "4371989409",
+      "company": "Flex-N-Gate",
+      "country": "IL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T15:51:34.032Z",
+      "job_id": "4366051636",
+      "company": "D.A. Davidson Companies",
+      "country": "WA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T15:51:39.930Z",
+      "job_id": "4366057616",
+      "company": "D.A. Davidson Companies",
+      "country": "MN",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T15:51:46.470Z",
+      "job_id": "4375010455",
+      "company": "Vista Equity Partners",
+      "country": "CA",
       "workplace_type": "Not Specified",
       "success_status": "success"
     }
