@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T15:51:49.367Z",
+  "generated_at": "2026-04-25T16:27:08.740Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9720,6 +9720,54 @@
       "company": "Vista Equity Partners",
       "country": "CA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T16:26:29.570Z",
+      "job_id": "4371989636",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T16:26:36.406Z",
+      "job_id": "4383219340",
+      "company": "Deepgram",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T16:26:43.044Z",
+      "job_id": "4405035115",
+      "company": "Eloquent AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T16:26:50.380Z",
+      "job_id": "4343853693",
+      "company": "Cohere",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T16:26:58.005Z",
+      "job_id": "4351690144",
+      "company": "Anaplan",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T16:27:06.079Z",
+      "job_id": "4334131357",
+      "company": "Vertiv",
+      "country": "CA",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
