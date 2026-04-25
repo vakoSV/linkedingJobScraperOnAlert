@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T10:26:48.549Z",
+  "generated_at": "2026-04-25T12:26:51.754Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9575,6 +9575,54 @@
       "job_id": "4395272153",
       "company": "MongoDB",
       "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T12:26:12.797Z",
+      "job_id": "4394307911",
+      "company": "Orlando Utilities Commission (OUC - The Reliable One)",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T12:26:19.337Z",
+      "job_id": "4405082168",
+      "company": "Marriott Vacations Worldwide",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T12:26:26.511Z",
+      "job_id": "4405076668",
+      "company": "Accenture",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T12:26:34.172Z",
+      "job_id": "4405059216",
+      "company": "By Light Professional IT Services",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T12:26:41.831Z",
+      "job_id": "4406627303",
+      "company": "EBG",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T12:26:48.822Z",
+      "job_id": "4405394026",
+      "company": "Cognizant",
+      "country": "FL",
       "workplace_type": "Hybrid",
       "success_status": "success"
     }
