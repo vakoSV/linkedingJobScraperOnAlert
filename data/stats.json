@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-25T06:26:59.246Z",
+  "generated_at": "2026-04-25T08:27:13.676Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -9480,6 +9480,54 @@
       "company": "Plative",
       "country": "United States",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T08:26:36.285Z",
+      "job_id": "4403749149",
+      "company": "AI Acquisition",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T08:26:43.062Z",
+      "job_id": "4406649045",
+      "company": "United Consulting Hub",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T08:26:49.700Z",
+      "job_id": "4406630137",
+      "company": "Applicantz",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T08:26:56.619Z",
+      "job_id": "4406627717",
+      "company": "1Password",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T08:27:04.299Z",
+      "job_id": "4395720258",
+      "company": "phData",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-25T08:27:10.703Z",
+      "job_id": "4403737026",
+      "company": "Ladders",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
