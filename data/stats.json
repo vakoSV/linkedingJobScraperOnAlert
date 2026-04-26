@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T08:27:01.817Z",
+  "generated_at": "2026-04-26T10:27:34.724Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10184,6 +10184,70 @@
       "company": "Applicantz",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:26:43.657Z",
+      "job_id": "4374307654",
+      "company": "XBOW",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:26:50.553Z",
+      "job_id": "4383174732",
+      "company": "Snorkel AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:26:57.702Z",
+      "job_id": "4337418057",
+      "company": "Navarro Research and Engineering",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:27:03.904Z",
+      "job_id": "4406845627",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:27:11.198Z",
+      "job_id": "4405730116",
+      "company": "Zachary Piper Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:27:18.801Z",
+      "job_id": "4356607642",
+      "company": "Dayforce",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:27:25.109Z",
+      "job_id": "4403782997",
+      "company": "Russell Tobin",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T10:27:31.842Z",
+      "job_id": "4405363738",
+      "company": "PUMA Group",
+      "country": "MA",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
