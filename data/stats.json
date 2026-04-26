@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T15:51:53.516Z",
+  "generated_at": "2026-04-26T16:26:47.716Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10446,6 +10446,54 @@
       "timestamp": "2026-04-26T15:51:51.637Z",
       "job_id": "4403785370",
       "company": "MaintainX",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T16:26:12.042Z",
+      "job_id": "4405905053",
+      "company": "Jobright.ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T16:26:18.877Z",
+      "job_id": "4406885884",
+      "company": "Sigma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T16:26:25.079Z",
+      "job_id": "4405257685",
+      "company": "GoGuardian",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T16:26:31.479Z",
+      "job_id": "4405380861",
+      "company": "Afresh",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T16:26:38.585Z",
+      "job_id": "4405324779",
+      "company": "SightCall",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T16:26:44.631Z",
+      "job_id": "4405921334",
+      "company": "RemoteHunter",
       "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
