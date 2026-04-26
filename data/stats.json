@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T06:27:26.710Z",
+  "generated_at": "2026-04-26T08:27:01.817Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10135,6 +10135,54 @@
       "job_id": "4371375041",
       "company": "Liberate",
       "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T08:26:23.508Z",
+      "job_id": "4405371120",
+      "company": "Mindmaven",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T08:26:30.967Z",
+      "job_id": "4403749149",
+      "company": "AI Acquisition",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T08:26:38.713Z",
+      "job_id": "4395720258",
+      "company": "phData",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T08:26:45.076Z",
+      "job_id": "4406627717",
+      "company": "1Password",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T08:26:53.030Z",
+      "job_id": "4397835220",
+      "company": "Carestream Dental",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T08:26:58.972Z",
+      "job_id": "4406630137",
+      "company": "Applicantz",
+      "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
     }
