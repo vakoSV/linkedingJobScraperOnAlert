@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T10:27:34.724Z",
+  "generated_at": "2026-04-26T12:27:25.929Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10248,6 +10248,78 @@
       "company": "PUMA Group",
       "country": "MA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:26:27.403Z",
+      "job_id": "4381917765",
+      "company": "Monarch",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:26:35.597Z",
+      "job_id": "4397581206",
+      "company": "GC AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:26:42.143Z",
+      "job_id": "4406627717",
+      "company": "1Password",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:26:48.363Z",
+      "job_id": "4406814273",
+      "company": "Baserow",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:26:55.719Z",
+      "job_id": "4403792467",
+      "company": "City Mattress",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:27:02.749Z",
+      "job_id": "4395357479",
+      "company": "Practifi",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:27:09.200Z",
+      "job_id": "4406630137",
+      "company": "Applicantz",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:27:16.291Z",
+      "job_id": "4406847597",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T12:27:23.031Z",
+      "job_id": "4406849468",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
