@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T12:27:25.929Z",
+  "generated_at": "2026-04-26T14:27:22.079Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10320,6 +10320,86 @@
       "company": "Joveo AI",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:15.986Z",
+      "job_id": "4381917765",
+      "company": "Monarch",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:22.456Z",
+      "job_id": "4405738297",
+      "company": "State of Minnesota",
+      "country": "MN",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:28.431Z",
+      "job_id": "4397581206",
+      "company": "GC AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:35.812Z",
+      "job_id": "4383174732",
+      "company": "Snorkel AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:43.413Z",
+      "job_id": "4356486333",
+      "company": "Roboyo",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:50.740Z",
+      "job_id": "4385309439",
+      "company": "SentiLink",
+      "country": "IL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:26:58.568Z",
+      "job_id": "4375011453",
+      "company": "Vista Equity Partners",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:27:04.869Z",
+      "job_id": "4385599773",
+      "company": "GE Vernova",
+      "country": "NJ",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:27:11.958Z",
+      "job_id": "4406810170",
+      "company": "Actalent",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T14:27:19.341Z",
+      "job_id": "4406676847",
+      "company": "Tennant Company",
+      "country": "FL",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
