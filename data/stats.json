@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T16:26:47.716Z",
+  "generated_at": "2026-04-26T18:27:14.895Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10496,6 +10496,86 @@
       "company": "RemoteHunter",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:12.723Z",
+      "job_id": "4372017819",
+      "company": "BetterUp",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:20.862Z",
+      "job_id": "4384281353",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:27.028Z",
+      "job_id": "4397581206",
+      "company": "GC AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:33.791Z",
+      "job_id": "4405711747",
+      "company": "The CB Advisors",
+      "country": "AZ",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:40.297Z",
+      "job_id": "4375020104",
+      "company": "Vista Equity Partners",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:47.412Z",
+      "job_id": "4406834661",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:26:53.498Z",
+      "job_id": "4405711344",
+      "company": "Spot AI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:27:00.075Z",
+      "job_id": "4383184682",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:27:06.026Z",
+      "job_id": "4403270342",
+      "company": "Gamma",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-26T18:27:12.694Z",
+      "job_id": "4373705925",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
