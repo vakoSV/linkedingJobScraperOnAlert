@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-26T18:27:14.895Z",
+  "generated_at": "2026-04-27T06:27:34.177Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10575,6 +10575,86 @@
       "job_id": "4373705925",
       "company": "OpenAI",
       "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:26:31.050Z",
+      "job_id": "4372019769",
+      "company": "BetterUp",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:26:38.469Z",
+      "job_id": "4372012936",
+      "company": "BetterUp",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:26:45.121Z",
+      "job_id": "4375020104",
+      "company": "Vista Equity Partners",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:26:51.351Z",
+      "job_id": "4375011453",
+      "company": "Vista Equity Partners",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:26:57.885Z",
+      "job_id": "4406867633",
+      "company": "NetApp",
+      "country": "NC",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:27:05.505Z",
+      "job_id": "4383174731",
+      "company": "Snorkel AI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:27:12.132Z",
+      "job_id": "4407128785",
+      "company": "Joveo AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:27:18.640Z",
+      "job_id": "4373852414",
+      "company": "Close",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:27:24.899Z",
+      "job_id": "4405907114",
+      "company": "The Walt Disney Company",
+      "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-04-27T06:27:31.741Z",
+      "job_id": "4407130207",
+      "company": "Idea Insurance Agency",
+      "country": "FL",
       "workplace_type": "Hybrid",
       "success_status": "success"
     }
