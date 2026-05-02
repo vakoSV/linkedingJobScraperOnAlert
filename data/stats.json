@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-04-27T10:27:17.528Z",
+  "generated_at": "2026-05-02T19:48:36.914Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10808,6 +10808,54 @@
       "company": "Hire Feed",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-02T19:47:57.604Z",
+      "job_id": "4406705462",
+      "company": "US Tech Solutions",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-02T19:48:05.718Z",
+      "job_id": "4406482462",
+      "company": "Profound",
+      "country": "NY",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-02T19:48:12.658Z",
+      "job_id": "4398669814",
+      "company": "AirOps",
+      "country": "New York City Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-02T19:48:19.835Z",
+      "job_id": "4406424233",
+      "company": "CFS",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-02T19:48:26.314Z",
+      "job_id": "4406497311",
+      "company": "Northpointe Staffing Professionals",
+      "country": "NJ",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-02T19:48:33.938Z",
+      "job_id": "4407060040",
+      "company": "Nexxen",
+      "country": "NY",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
