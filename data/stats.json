@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-03T08:27:23.196Z",
+  "generated_at": "2026-05-03T10:27:16.209Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11008,6 +11008,86 @@
       "company": "Zaigo",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:12.941Z",
+      "job_id": "4409551911",
+      "company": "Anrok",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:20.047Z",
+      "job_id": "4341565039",
+      "company": "Giga",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:27.313Z",
+      "job_id": "4359590488",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:34.912Z",
+      "job_id": "4359850358",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:41.551Z",
+      "job_id": "4400678351",
+      "company": "Notion",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:47.652Z",
+      "job_id": "4401130388",
+      "company": "Ivo",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:26:54.226Z",
+      "job_id": "4357744006",
+      "company": "Myriad360",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:27:00.343Z",
+      "job_id": "4385775587",
+      "company": "FinQuery, Formerly LeaseQuery",
+      "country": "GA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:27:07.379Z",
+      "job_id": "4407943400",
+      "company": "Apple",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T10:27:13.831Z",
+      "job_id": "4407966393",
+      "company": "Ryder System, Inc.",
+      "country": "MA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
