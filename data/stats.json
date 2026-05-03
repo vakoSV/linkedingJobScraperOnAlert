@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-03T10:27:16.209Z",
+  "generated_at": "2026-05-03T12:27:01.841Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11088,6 +11088,54 @@
       "company": "Ryder System, Inc.",
       "country": "MA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T12:26:24.469Z",
+      "job_id": "4385706295",
+      "company": "Warp",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T12:26:31.612Z",
+      "job_id": "4341565039",
+      "company": "Giga",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T12:26:38.035Z",
+      "job_id": "4369292210",
+      "company": "LangChain",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T12:26:45.590Z",
+      "job_id": "4387744656",
+      "company": "LangChain",
+      "country": "NC",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T12:26:52.284Z",
+      "job_id": "4359590488",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T12:26:58.998Z",
+      "job_id": "4362982244",
+      "company": "Decagon",
+      "country": "NY",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
