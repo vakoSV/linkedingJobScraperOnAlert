@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-02T19:48:36.914Z",
+  "generated_at": "2026-05-03T06:27:22.773Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -10855,6 +10855,86 @@
       "job_id": "4407060040",
       "company": "Nexxen",
       "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:26:18.442Z",
+      "job_id": "4357744006",
+      "company": "Myriad360",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:26:24.896Z",
+      "job_id": "4409509392",
+      "company": "Presidio",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:26:32.325Z",
+      "job_id": "4397649054",
+      "company": "Vinson & Elkins",
+      "country": "TX",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:26:39.620Z",
+      "job_id": "4392105341",
+      "company": "Epiq",
+      "country": "KS",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:26:45.979Z",
+      "job_id": "4409493991",
+      "company": "TDY Rentals",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:26:53.748Z",
+      "job_id": "4407211870",
+      "company": "Synergyassure Inc",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:27:01.280Z",
+      "job_id": "4409518721",
+      "company": "Deloitte",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:27:08.453Z",
+      "job_id": "4394307911",
+      "company": "Orlando Utilities Commission (OUC - The Reliable One)",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:27:14.907Z",
+      "job_id": "4409551911",
+      "company": "Anrok",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-03T06:27:20.882Z",
+      "job_id": "4409559889",
+      "company": "Anrok",
+      "country": "San Francisco Bay Area",
       "workplace_type": "Hybrid",
       "success_status": "success"
     }
