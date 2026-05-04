@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-03T15:53:24.794Z",
+  "generated_at": "2026-05-04T06:27:47.657Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11295,6 +11295,86 @@
       "job_id": "4404311518",
       "company": "Stuut",
       "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:26:44.480Z",
+      "job_id": "4388391843",
+      "company": "Glimpse",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:26:50.505Z",
+      "job_id": "4335946983",
+      "company": "Orion Group",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:26:58.432Z",
+      "job_id": "4322051820",
+      "company": "Cresta",
+      "country": "New York City Metropolitan Area",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:04.965Z",
+      "job_id": "4378772335",
+      "company": "Deloitte",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:12.223Z",
+      "job_id": "4353526178",
+      "company": "Skidmore, Owings & Merrill (SOM)",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:18.628Z",
+      "job_id": "4369480200",
+      "company": "Deloitte",
+      "country": "NJ",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:25.079Z",
+      "job_id": "4400603981",
+      "company": "Greenberg Traurig, LLP",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:31.404Z",
+      "job_id": "4400606865",
+      "company": "Greenberg Traurig, LLP",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:38.087Z",
+      "job_id": "4378770482",
+      "company": "Deloitte",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T06:27:45.193Z",
+      "job_id": "4386188250",
+      "company": "SPX Technologies",
+      "country": "Greater Orlando",
       "workplace_type": "Hybrid",
       "success_status": "success"
     }
