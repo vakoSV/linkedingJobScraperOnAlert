@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-04T12:27:09.252Z",
+  "generated_at": "2026-05-04T14:27:41.237Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11599,6 +11599,86 @@
       "job_id": "4408380161",
       "company": "RemoteHunter",
       "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:26:35.843Z",
+      "job_id": "4398197655",
+      "company": "Boulevard",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:26:42.359Z",
+      "job_id": "4409840067",
+      "company": "Baserow",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:26:50.071Z",
+      "job_id": "4399073347",
+      "company": "Knights of Columbus",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:26:57.101Z",
+      "job_id": "4378683815",
+      "company": "phData",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:27:03.660Z",
+      "job_id": "4377282127",
+      "company": "Enlyte",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:27:09.692Z",
+      "job_id": "4409853741",
+      "company": "Sundayy",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:27:17.491Z",
+      "job_id": "4385775587",
+      "company": "FinQuery, Formerly LeaseQuery",
+      "country": "GA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:27:25.476Z",
+      "job_id": "4409835473",
+      "company": "Metriport",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:27:31.767Z",
+      "job_id": "4400591986",
+      "company": "ZoomInfo",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T14:27:38.671Z",
+      "job_id": "4409834255",
+      "company": "Frederick Fox",
+      "country": "Greater Seattle Area",
       "workplace_type": "Remote",
       "success_status": "success"
     }
