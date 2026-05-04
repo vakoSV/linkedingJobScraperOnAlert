@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-04T10:27:27.654Z",
+  "generated_at": "2026-05-04T12:27:09.252Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11535,6 +11535,70 @@
       "job_id": "4398137094",
       "company": "BRG",
       "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:26:16.766Z",
+      "job_id": "4387983990",
+      "company": "Teladoc Health",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:26:24.294Z",
+      "job_id": "4408371555",
+      "company": "Hyra",
+      "country": "TX",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:26:32.222Z",
+      "job_id": "4376954993",
+      "company": "Cherry Bekaert",
+      "country": "NC",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:26:39.805Z",
+      "job_id": "4408383222",
+      "company": "RemoteHunter",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:26:46.774Z",
+      "job_id": "4408351109",
+      "company": "Clinton Health Access Initiative, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:26:53.517Z",
+      "job_id": "4388585738",
+      "company": "Daxko",
+      "country": "AL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:27:00.658Z",
+      "job_id": "4388391843",
+      "company": "Glimpse",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T12:27:06.252Z",
+      "job_id": "4408380161",
+      "company": "RemoteHunter",
+      "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
     }
