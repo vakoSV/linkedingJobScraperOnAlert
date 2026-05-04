@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-04T06:27:47.657Z",
+  "generated_at": "2026-05-04T08:27:21.902Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11376,6 +11376,86 @@
       "company": "SPX Technologies",
       "country": "Greater Orlando",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:16.452Z",
+      "job_id": "4359850357",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:23.184Z",
+      "job_id": "4409834503",
+      "company": "Metriport",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:30.263Z",
+      "job_id": "4388594231",
+      "company": "Sendbird",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:36.648Z",
+      "job_id": "4369865697",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:44.230Z",
+      "job_id": "4376216536",
+      "company": "C3 AI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:51.104Z",
+      "job_id": "4369153679",
+      "company": "Klaviyo",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:26:58.537Z",
+      "job_id": "4409835473",
+      "company": "Metriport",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:27:05.585Z",
+      "job_id": "4408353078",
+      "company": "Haystack",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:27:12.994Z",
+      "job_id": "4409821952",
+      "company": "Acquire4Hire",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-04T08:27:20.080Z",
+      "job_id": "4296252942",
+      "company": "Koch",
+      "country": "TX",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
