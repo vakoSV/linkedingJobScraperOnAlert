@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-05T12:27:46.881Z",
+  "generated_at": "2026-05-05T14:27:34.526Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11928,6 +11928,78 @@
       "company": "arrivia",
       "country": "CA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:26:35.307Z",
+      "job_id": "4322340159",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:26:43.070Z",
+      "job_id": "4359247806",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:26:50.006Z",
+      "job_id": "4376690229",
+      "company": "Beckman Coulter Diagnostics",
+      "country": "NJ",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:26:56.173Z",
+      "job_id": "4389291326",
+      "company": "Motion Recruitment",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:27:02.986Z",
+      "job_id": "4317716631",
+      "company": "Adyen",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:27:10.527Z",
+      "job_id": "4410029169",
+      "company": "Sequoia Capital Global Equities",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:27:17.286Z",
+      "job_id": "4408686302",
+      "company": "Eames Consulting",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:27:23.918Z",
+      "job_id": "4408659878",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T14:27:31.624Z",
+      "job_id": "4379025862",
+      "company": "GlossGenius",
+      "country": "NY",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
