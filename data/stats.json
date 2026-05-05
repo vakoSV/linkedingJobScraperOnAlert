@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-05T14:27:34.526Z",
+  "generated_at": "2026-05-05T15:52:33.835Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12000,6 +12000,86 @@
       "company": "GlossGenius",
       "country": "NY",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:51:28.397Z",
+      "job_id": "4398023903",
+      "company": "Success Mortgage Partners, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:51:36.582Z",
+      "job_id": "4377935932",
+      "company": "Q Investments",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:51:43.457Z",
+      "job_id": "4410081147",
+      "company": "Doppel",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:51:50.262Z",
+      "job_id": "4401478370",
+      "company": "Redwood Software",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:51:57.716Z",
+      "job_id": "4408691970",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:52:04.911Z",
+      "job_id": "4408390627",
+      "company": "arrivia",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:52:11.043Z",
+      "job_id": "4359247806",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:52:17.993Z",
+      "job_id": "4388672341",
+      "company": "Liberate",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:52:23.852Z",
+      "job_id": "4366521787",
+      "company": "Archetype AI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T15:52:31.033Z",
+      "job_id": "4369892753",
+      "company": "Figma",
+      "country": "CA",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
