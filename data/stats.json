@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-05T06:27:58.283Z",
+  "generated_at": "2026-05-05T08:27:38.267Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11759,6 +11759,70 @@
       "job_id": "4408678456",
       "company": "Krupp General Contractors",
       "country": "WI",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:26:45.703Z",
+      "job_id": "4398023903",
+      "company": "Success Mortgage Partners, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:26:53.217Z",
+      "job_id": "4408691970",
+      "company": "Piper Companies",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:27:00.624Z",
+      "job_id": "4408659878",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:27:06.768Z",
+      "job_id": "4408911593",
+      "company": "Appen",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:27:13.791Z",
+      "job_id": "4408110111",
+      "company": "SalesPromis",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:27:21.964Z",
+      "job_id": "4410093977",
+      "company": "Farmers Insurance",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:27:29.165Z",
+      "job_id": "4408647647",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T08:27:35.258Z",
+      "job_id": "4407918915",
+      "company": "Lorven Technologies Inc.",
+      "country": "GA",
       "workplace_type": "On-site",
       "success_status": "success"
     }
