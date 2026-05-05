@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-04T14:27:41.237Z",
+  "generated_at": "2026-05-05T06:27:58.283Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -11680,6 +11680,86 @@
       "company": "Frederick Fox",
       "country": "Greater Seattle Area",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:26:52.015Z",
+      "job_id": "4410228210",
+      "company": "Answer Financial",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:26:58.799Z",
+      "job_id": "4408677917",
+      "company": "Programmers.io",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:06.241Z",
+      "job_id": "4410081147",
+      "company": "Doppel",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:12.535Z",
+      "job_id": "4409871986",
+      "company": "talentpluto",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:19.836Z",
+      "job_id": "4408659878",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:27.871Z",
+      "job_id": "4410202954",
+      "company": "MaintainX",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:35.326Z",
+      "job_id": "4410222453",
+      "company": "Syms Strategic Group, LLC (SSG)",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:42.183Z",
+      "job_id": "4388602354",
+      "company": "PwC",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:48.447Z",
+      "job_id": "4354741634",
+      "company": "Picogrid",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-05T06:27:55.552Z",
+      "job_id": "4408678456",
+      "company": "Krupp General Contractors",
+      "country": "WI",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
