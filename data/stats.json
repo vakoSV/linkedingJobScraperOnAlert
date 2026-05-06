@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-06T06:27:23.239Z",
+  "generated_at": "2026-05-06T08:26:56.269Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12160,6 +12160,54 @@
       "company": "Stuut",
       "country": "NY",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T08:26:16.827Z",
+      "job_id": "4399435968",
+      "company": "RevPilots",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T08:26:24.117Z",
+      "job_id": "4410723467",
+      "company": "Hire Feed",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T08:26:30.930Z",
+      "job_id": "4410755260",
+      "company": "AgileGrid Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T08:26:38.672Z",
+      "job_id": "4410712995",
+      "company": "Hire Feed",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T08:26:46.195Z",
+      "job_id": "4410244565",
+      "company": "CivicPlus",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T08:26:53.388Z",
+      "job_id": "4408944382",
+      "company": "Aios Medical (Fella Health)",
+      "country": "CA",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
