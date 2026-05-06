@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-06T10:27:26.017Z",
+  "generated_at": "2026-05-06T12:27:36.620Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12288,6 +12288,78 @@
       "company": "A.Team",
       "country": "United States",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:26:29.765Z",
+      "job_id": "4394707404",
+      "company": "U.S. Silica Company",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:26:38.517Z",
+      "job_id": "4398611740",
+      "company": "Covetrus",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:26:45.827Z",
+      "job_id": "4408953028",
+      "company": "iFIT",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:26:54.157Z",
+      "job_id": "4410281615",
+      "company": "Experian",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:27:00.874Z",
+      "job_id": "4408450229",
+      "company": "InTune Marketing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:27:09.230Z",
+      "job_id": "4410720835",
+      "company": "HubSpot",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:27:17.210Z",
+      "job_id": "4409700558",
+      "company": "A.Team",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:27:24.810Z",
+      "job_id": "4410202954",
+      "company": "MaintainX",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T12:27:33.089Z",
+      "job_id": "4410512289",
+      "company": "Arcade",
+      "country": "CA",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
