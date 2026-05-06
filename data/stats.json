@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-06T08:26:56.269Z",
+  "generated_at": "2026-05-06T10:27:26.017Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12207,6 +12207,86 @@
       "job_id": "4408944382",
       "company": "Aios Medical (Fella Health)",
       "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:26:21.951Z",
+      "job_id": "4398023903",
+      "company": "Success Mortgage Partners, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:26:29.541Z",
+      "job_id": "4408953028",
+      "company": "iFIT",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:26:37.459Z",
+      "job_id": "4410710154",
+      "company": "HW3",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:26:44.596Z",
+      "job_id": "4409351925",
+      "company": "Innovatech Staffing",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:26:51.460Z",
+      "job_id": "4335945062",
+      "company": "Perficient",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:26:56.789Z",
+      "job_id": "4408402405",
+      "company": "TriluxTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:27:03.377Z",
+      "job_id": "4408163023",
+      "company": "Jerry",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:27:09.207Z",
+      "job_id": "4408946574",
+      "company": "Klaviyo",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:27:16.230Z",
+      "job_id": "4370514688",
+      "company": "Reindeer",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T10:27:23.674Z",
+      "job_id": "4409389720",
+      "company": "A.Team",
+      "country": "United States",
       "workplace_type": "Remote",
       "success_status": "success"
     }
