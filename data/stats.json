@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-05T15:52:33.835Z",
+  "generated_at": "2026-05-06T06:27:23.239Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12080,6 +12080,86 @@
       "company": "Figma",
       "country": "CA",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:26:18.830Z",
+      "job_id": "4398023903",
+      "company": "Success Mortgage Partners, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:26:27.290Z",
+      "job_id": "4410228210",
+      "company": "Answer Financial",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:26:34.805Z",
+      "job_id": "4408953028",
+      "company": "iFIT",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:26:40.917Z",
+      "job_id": "4410511142",
+      "company": "Precisely",
+      "country": "Atlanta Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:26:48.178Z",
+      "job_id": "4410292925",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:26:54.410Z",
+      "job_id": "4408985711",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:27:00.844Z",
+      "job_id": "4400064918",
+      "company": "Liquid AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:27:08.402Z",
+      "job_id": "4410718455",
+      "company": "Gigs",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:27:14.048Z",
+      "job_id": "4392476457",
+      "company": "Accenture",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-06T06:27:21.082Z",
+      "job_id": "4404311518",
+      "company": "Stuut",
+      "country": "NY",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
