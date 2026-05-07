@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-07T06:27:24.701Z",
+  "generated_at": "2026-05-07T08:27:51.317Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12592,6 +12592,86 @@
       "company": "Plaud",
       "country": "CA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:26:42.967Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:26:51.344Z",
+      "job_id": "4389333295",
+      "company": "Anaconda, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:26:57.821Z",
+      "job_id": "4410941761",
+      "company": "Life360",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:05.017Z",
+      "job_id": "4409782819",
+      "company": "Ladders",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:12.932Z",
+      "job_id": "4389399370",
+      "company": "Kraken",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:20.681Z",
+      "job_id": "4409716287",
+      "company": "Haystack",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:28.245Z",
+      "job_id": "4409777530",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:34.272Z",
+      "job_id": "4409728892",
+      "company": "Mainz Brady Group",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:42.184Z",
+      "job_id": "4410709555",
+      "company": "WellSense Health Plan",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T08:27:48.506Z",
+      "job_id": "4401149135",
+      "company": "Scribd, Inc.",
+      "country": "MA",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
