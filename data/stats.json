@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-07T10:27:22.192Z",
+  "generated_at": "2026-05-07T12:27:32.890Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12744,6 +12744,86 @@
       "company": "NORTHRIDGE CONSTRUCTION",
       "country": "NY",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:26:25.645Z",
+      "job_id": "4408464349",
+      "company": "TurnPoint Services",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:26:33.355Z",
+      "job_id": "4408449584",
+      "company": "Progressive Leasing",
+      "country": "GA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:26:40.843Z",
+      "job_id": "4389333295",
+      "company": "Anaconda, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:26:48.051Z",
+      "job_id": "4410790217",
+      "company": "Scan.com",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:26:55.642Z",
+      "job_id": "4410770923",
+      "company": "American Dining Creations",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:27:02.302Z",
+      "job_id": "4384747008",
+      "company": "Webflow",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:27:09.375Z",
+      "job_id": "4410974923",
+      "company": "OMW Consulting",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:27:15.628Z",
+      "job_id": "4409932341",
+      "company": "TrueRoll",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:27:23.022Z",
+      "job_id": "4408458482",
+      "company": "Observe.AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T12:27:30.363Z",
+      "job_id": "4408172389",
+      "company": "Scout Global",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
