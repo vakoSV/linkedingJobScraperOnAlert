@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-07T12:27:32.890Z",
+  "generated_at": "2026-05-07T14:27:42.899Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12823,6 +12823,86 @@
       "job_id": "4408172389",
       "company": "Scout Global",
       "country": "San Francisco Bay Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:26:37.551Z",
+      "job_id": "4408464349",
+      "company": "TurnPoint Services",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:26:44.511Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:26:52.394Z",
+      "job_id": "4408953028",
+      "company": "iFIT",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:26:59.927Z",
+      "job_id": "4411254290",
+      "company": "Lead Surge LLC",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:27:06.600Z",
+      "job_id": "4409716653",
+      "company": "Babylist",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:27:14.489Z",
+      "job_id": "4389333295",
+      "company": "Anaconda, Inc.",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:27:20.994Z",
+      "job_id": "4409713980",
+      "company": "Clevanoo LLC",
+      "country": "FL",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:27:27.674Z",
+      "job_id": "4402736855",
+      "company": "Fortress Information Security",
+      "country": "Greater Orlando",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:27:33.977Z",
+      "job_id": "4391180729",
+      "company": "Exbo Group",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T14:27:40.277Z",
+      "job_id": "4410959210",
+      "company": "Vic.ai",
+      "country": "NY",
       "workplace_type": "Remote",
       "success_status": "success"
     }
