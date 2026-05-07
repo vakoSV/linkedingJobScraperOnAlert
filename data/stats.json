@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-07T08:27:51.317Z",
+  "generated_at": "2026-05-07T10:27:22.192Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -12672,6 +12672,78 @@
       "company": "Scribd, Inc.",
       "country": "MA",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:26:24.354Z",
+      "job_id": "4409949311",
+      "company": "Frost Law",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:26:31.504Z",
+      "job_id": "4408464349",
+      "company": "TurnPoint Services",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:26:39.070Z",
+      "job_id": "4391180729",
+      "company": "Exbo Group",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:26:45.077Z",
+      "job_id": "4410755465",
+      "company": "QuadSci.ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:26:52.876Z",
+      "job_id": "4409747305",
+      "company": "Dragonfly Operating Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:26:58.880Z",
+      "job_id": "4389854272",
+      "company": "Texas Instruments",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:27:05.212Z",
+      "job_id": "4402505923",
+      "company": "Selby Jennings",
+      "country": "IL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:27:12.352Z",
+      "job_id": "4410946246",
+      "company": "SpaceX",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-07T10:27:19.443Z",
+      "job_id": "4410742251",
+      "company": "NORTHRIDGE CONSTRUCTION",
+      "country": "NY",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
