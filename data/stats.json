@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-08T12:27:30.087Z",
+  "generated_at": "2026-05-08T14:27:29.141Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -13272,6 +13272,86 @@
       "company": "nVent",
       "country": "WI",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:26:22.043Z",
+      "job_id": "4408953028",
+      "company": "iFIT",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:26:29.694Z",
+      "job_id": "4398175544",
+      "company": "CRB Workforce",
+      "country": "NM",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:26:37.047Z",
+      "job_id": "4409989440",
+      "company": "InterSources Inc",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:26:43.204Z",
+      "job_id": "4411641719",
+      "company": "HYR Global Source Inc",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:26:50.455Z",
+      "job_id": "4409414651",
+      "company": "829 Studios",
+      "country": "MA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:26:58.191Z",
+      "job_id": "4411421717",
+      "company": "TrustNet Technologies",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:27:05.206Z",
+      "job_id": "4404821538",
+      "company": "ClifyX",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:27:13.116Z",
+      "job_id": "4411694306",
+      "company": "Seeq Corporation",
+      "country": "DC",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:27:20.588Z",
+      "job_id": "4411615098",
+      "company": "Motion Recruitment",
+      "country": "Los Angeles Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T14:27:26.528Z",
+      "job_id": "4408172389",
+      "company": "Scout Global",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
