@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-08T06:27:31.027Z",
+  "generated_at": "2026-05-08T08:27:25.555Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -13032,6 +13032,86 @@
       "company": "Texas Instruments",
       "country": "TX",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:26:24.233Z",
+      "job_id": "4409207841",
+      "company": "Superhuman",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:26:30.689Z",
+      "job_id": "4409222629",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:26:37.001Z",
+      "job_id": "4409991456",
+      "company": "Autodesk",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:26:44.860Z",
+      "job_id": "4389837762",
+      "company": "Hopper",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:26:51.232Z",
+      "job_id": "4410810628",
+      "company": "Quanta Aviation Services",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:26:57.863Z",
+      "job_id": "4409979861",
+      "company": "Autodesk",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:27:04.124Z",
+      "job_id": "4370937406",
+      "company": "Front",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:27:10.342Z",
+      "job_id": "4402655018",
+      "company": "Fireworks AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:27:17.586Z",
+      "job_id": "4409728892",
+      "company": "Mainz Brady Group",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T08:27:23.866Z",
+      "job_id": "4411255597",
+      "company": "Pyramid Consulting, Inc",
+      "country": "CA",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
