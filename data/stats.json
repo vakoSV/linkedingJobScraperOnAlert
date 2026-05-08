@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-08T10:27:17.515Z",
+  "generated_at": "2026-05-08T12:27:30.087Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -13191,6 +13191,86 @@
       "job_id": "4402523312",
       "company": "Holland & Knight LLP",
       "country": "FL",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:26:24.697Z",
+      "job_id": "4411669091",
+      "company": "Aline Accounting Partners",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:26:33.027Z",
+      "job_id": "4408911593",
+      "company": "Appen",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:26:38.757Z",
+      "job_id": "4409207841",
+      "company": "Superhuman",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:26:44.939Z",
+      "job_id": "4409222629",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:26:52.607Z",
+      "job_id": "4411269671",
+      "company": "Herman-Scheer",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:26:58.875Z",
+      "job_id": "4409991456",
+      "company": "Autodesk",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:27:05.376Z",
+      "job_id": "4401498085",
+      "company": "Texas Instruments",
+      "country": "TX",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:27:12.914Z",
+      "job_id": "4402505923",
+      "company": "Selby Jennings",
+      "country": "IL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:27:20.888Z",
+      "job_id": "4370623407",
+      "company": "AI Fund",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T12:27:28.298Z",
+      "job_id": "4390616039",
+      "company": "nVent",
+      "country": "WI",
       "workplace_type": "Not Specified",
       "success_status": "success"
     }
