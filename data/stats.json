@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-08T08:27:25.555Z",
+  "generated_at": "2026-05-08T10:27:17.515Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -13112,6 +13112,86 @@
       "company": "Pyramid Consulting, Inc",
       "country": "CA",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:17.459Z",
+      "job_id": "4389419040",
+      "company": "Valsoft Corporation",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:24.885Z",
+      "job_id": "4411625272",
+      "company": "AgileGrid Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:30.933Z",
+      "job_id": "4409222629",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:35.984Z",
+      "job_id": "4409991456",
+      "company": "Autodesk",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:42.843Z",
+      "job_id": "4408879789",
+      "company": "Zensai",
+      "country": "MA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:48.775Z",
+      "job_id": "4363022481",
+      "company": "Circana",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:26:55.501Z",
+      "job_id": "4401883060",
+      "company": "exacare ai",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:27:01.126Z",
+      "job_id": "4392476457",
+      "company": "Accenture",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:27:08.661Z",
+      "job_id": "4409285586",
+      "company": "SGP Recruiting",
+      "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-08T10:27:14.642Z",
+      "job_id": "4402523312",
+      "company": "Holland & Knight LLP",
+      "country": "FL",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
