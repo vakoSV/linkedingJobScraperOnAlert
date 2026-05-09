@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-09T06:27:19.219Z",
+  "generated_at": "2026-05-09T08:26:59.745Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -13480,6 +13480,54 @@
       "company": "ABB",
       "country": "FL",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-09T08:26:19.901Z",
+      "job_id": "4389964157",
+      "company": "Attentive",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-09T08:26:28.183Z",
+      "job_id": "4411886116",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-09T08:26:35.470Z",
+      "job_id": "4409611992",
+      "company": "Planet Technologies",
+      "country": "VA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-09T08:26:42.833Z",
+      "job_id": "4411722004",
+      "company": "Rime",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-09T08:26:50.300Z",
+      "job_id": "4396950536",
+      "company": "UMATR",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-09T08:26:57.818Z",
+      "job_id": "4410838721",
+      "company": "Haystack",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
