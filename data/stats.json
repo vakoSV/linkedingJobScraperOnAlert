@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-10T08:27:19.327Z",
+  "generated_at": "2026-05-10T10:26:56.224Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -13952,6 +13952,54 @@
       "company": "Didion",
       "country": "WI",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T10:26:16.365Z",
+      "job_id": "4354172327",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T10:26:23.678Z",
+      "job_id": "4411928283",
+      "company": "Archetype AI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T10:26:31.323Z",
+      "job_id": "4411943918",
+      "company": "Tiki AI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T10:26:38.913Z",
+      "job_id": "4336826982",
+      "company": "Postman",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T10:26:46.233Z",
+      "job_id": "4403480138",
+      "company": "Authorium",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T10:26:52.993Z",
+      "job_id": "4363400699",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
