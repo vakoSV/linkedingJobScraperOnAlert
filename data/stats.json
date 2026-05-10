@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-10T12:27:21.255Z",
+  "generated_at": "2026-05-10T14:29:43.712Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14080,6 +14080,86 @@
       "company": "Box",
       "country": "CA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:28:39.394Z",
+      "job_id": "4411977378",
+      "company": "Career Renew",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:28:47.678Z",
+      "job_id": "4408911593",
+      "company": "Appen",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:28:55.082Z",
+      "job_id": "4403158492",
+      "company": "Airbnb",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:01.916Z",
+      "job_id": "4411753755",
+      "company": "Global Medical Response",
+      "country": "CO",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:07.910Z",
+      "job_id": "4406906213",
+      "company": "ApartmentIQ",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:14.841Z",
+      "job_id": "4411789286",
+      "company": "Avalara",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:21.456Z",
+      "job_id": "4371708090",
+      "company": "Figma",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:28.394Z",
+      "job_id": "4380602628",
+      "company": "Aesculap (US)",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:34.880Z",
+      "job_id": "4382064302",
+      "company": "HMP Global",
+      "country": "PA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-10T14:29:41.507Z",
+      "job_id": "4383896365",
+      "company": "OSF Digital",
+      "country": "United States",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
