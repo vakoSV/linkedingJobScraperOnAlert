@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-11T10:27:24.374Z",
+  "generated_at": "2026-05-11T12:27:25.131Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14439,6 +14439,86 @@
       "job_id": "4380012751",
       "company": "ABB",
       "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:26:21.433Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:26:28.447Z",
+      "job_id": "4408911593",
+      "company": "Appen",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:26:35.030Z",
+      "job_id": "4371596930",
+      "company": "Figma",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:26:41.333Z",
+      "job_id": "4392304960",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:26:47.577Z",
+      "job_id": "4349655180",
+      "company": "Risepoint",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:26:53.973Z",
+      "job_id": "4380819326",
+      "company": "CareSource",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:27:01.475Z",
+      "job_id": "4393156301",
+      "company": "Attain Partners",
+      "country": "VA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:27:08.274Z",
+      "job_id": "4412319120",
+      "company": "Atlas Medical Data Group",
+      "country": "Kansas City Metropolitan Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:27:15.692Z",
+      "job_id": "4365224770",
+      "company": "OpenAI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T12:27:22.961Z",
+      "job_id": "4365231691",
+      "company": "OpenAI",
+      "country": "NY",
       "workplace_type": "Remote",
       "success_status": "success"
     }
