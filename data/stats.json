@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-10T15:54:28.053Z",
+  "generated_at": "2026-05-11T06:27:17.071Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14240,6 +14240,78 @@
       "company": "SS&C Technologies",
       "country": "MA",
       "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:26:18.262Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:26:26.732Z",
+      "job_id": "4412577653",
+      "company": "your marketing co.",
+      "country": "South Carolina Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:26:32.171Z",
+      "job_id": "4371596930",
+      "company": "Figma",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:26:40.109Z",
+      "job_id": "4392314424",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:26:46.588Z",
+      "job_id": "4392304960",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:26:53.692Z",
+      "job_id": "4404914276",
+      "company": "Talently",
+      "country": "NY",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:27:00.972Z",
+      "job_id": "4351234904",
+      "company": "Franklin Templeton",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:27:07.428Z",
+      "job_id": "4371701763",
+      "company": "Vapi",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T06:27:14.507Z",
+      "job_id": "4319499798",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
