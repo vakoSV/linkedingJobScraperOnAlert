@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-11T08:26:56.016Z",
+  "generated_at": "2026-05-11T10:27:24.374Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14359,6 +14359,86 @@
       "job_id": "4403092687",
       "company": "Ivo",
       "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:26:19.176Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:26:26.995Z",
+      "job_id": "4371596930",
+      "company": "Figma",
+      "country": "NY",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:26:34.828Z",
+      "job_id": "4410998642",
+      "company": "Core4ce",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:26:41.405Z",
+      "job_id": "4392304960",
+      "company": "Aspire Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:26:47.700Z",
+      "job_id": "4408911593",
+      "company": "Appen",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:26:55.076Z",
+      "job_id": "4412571754",
+      "company": "Hyra",
+      "country": "SD",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:27:02.031Z",
+      "job_id": "4371701763",
+      "company": "Vapi",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:27:08.817Z",
+      "job_id": "4319499798",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:27:15.323Z",
+      "job_id": "4395350743",
+      "company": "V2X Inc",
+      "country": "FL",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T10:27:22.020Z",
+      "job_id": "4380012751",
+      "company": "ABB",
+      "country": "FL",
       "workplace_type": "Remote",
       "success_status": "success"
     }
