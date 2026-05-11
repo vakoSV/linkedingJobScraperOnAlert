@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-11T06:27:17.071Z",
+  "generated_at": "2026-05-11T08:26:56.016Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14312,6 +14312,54 @@
       "company": "OpenAI",
       "country": "CA",
       "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T08:26:18.421Z",
+      "job_id": "4319499798",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T08:26:25.295Z",
+      "job_id": "4412318381",
+      "company": "Spot AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T08:26:32.182Z",
+      "job_id": "4371701763",
+      "company": "Vapi",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T08:26:39.140Z",
+      "job_id": "4412388742",
+      "company": "ProcessMaster",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T08:26:46.537Z",
+      "job_id": "4299273695",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T08:26:52.876Z",
+      "job_id": "4403092687",
+      "company": "Ivo",
+      "country": "CA",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
