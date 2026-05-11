@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-11T14:29:17.298Z",
+  "generated_at": "2026-05-11T15:52:25.322Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14600,6 +14600,86 @@
       "company": "KDC Construction",
       "country": "CA",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:51:22.652Z",
+      "job_id": "4371596929",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:51:30.151Z",
+      "job_id": "4365224770",
+      "company": "OpenAI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:51:36.648Z",
+      "job_id": "4412314529",
+      "company": "TaskRay",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:51:43.115Z",
+      "job_id": "4412314530",
+      "company": "TaskRay",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:51:50.073Z",
+      "job_id": "4412602375",
+      "company": "Netrolynx AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:51:56.537Z",
+      "job_id": "4398220117",
+      "company": "P-1 AI",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:52:03.113Z",
+      "job_id": "4412311266",
+      "company": "Sanofi",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:52:09.925Z",
+      "job_id": "4411993793",
+      "company": "Sanofi",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:52:15.974Z",
+      "job_id": "4412338528",
+      "company": "Betwixt",
+      "country": "United States",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-11T15:52:22.852Z",
+      "job_id": "4380960444",
+      "company": "Gopuff",
+      "country": "United States",
+      "workplace_type": "Hybrid",
       "success_status": "success"
     }
   ]
