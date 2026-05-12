@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-12T14:27:32.236Z",
+  "generated_at": "2026-05-12T15:51:57.673Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -15056,6 +15056,54 @@
       "company": "EliseAI",
       "country": "MA",
       "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T15:51:18.857Z",
+      "job_id": "4341945995",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T15:51:25.837Z",
+      "job_id": "4337609449",
+      "company": "Sentry",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T15:51:33.482Z",
+      "job_id": "4412588480",
+      "company": "Baseten",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T15:51:40.323Z",
+      "job_id": "4409396876",
+      "company": "depthfirst",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T15:51:47.336Z",
+      "job_id": "4381203022",
+      "company": "Meta",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T15:51:54.651Z",
+      "job_id": "4413114946",
+      "company": "Salesforce",
+      "country": "CA",
+      "workplace_type": "Remote",
       "success_status": "success"
     }
   ]
