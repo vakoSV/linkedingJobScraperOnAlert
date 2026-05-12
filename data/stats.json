@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-12T12:27:19.382Z",
+  "generated_at": "2026-05-12T14:27:32.236Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -14975,6 +14975,86 @@
       "job_id": "4412909011",
       "company": "DeepRec.ai",
       "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:26:28.010Z",
+      "job_id": "4331746721",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:26:36.149Z",
+      "job_id": "4341945995",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:26:42.733Z",
+      "job_id": "4408172389",
+      "company": "Scout Global",
+      "country": "San Francisco Bay Area",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:26:48.666Z",
+      "job_id": "4386867635",
+      "company": "Alto Neuroscience",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:26:55.920Z",
+      "job_id": "4400964279",
+      "company": "Noblis",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:27:03.096Z",
+      "job_id": "4412729232",
+      "company": "Sigma",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:27:09.528Z",
+      "job_id": "4412917351",
+      "company": "Happy Howl",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:27:16.428Z",
+      "job_id": "4412762532",
+      "company": "Jobgether",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:27:22.668Z",
+      "job_id": "4353596716",
+      "company": "Siemens Healthineers",
+      "country": "MA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-12T14:27:29.481Z",
+      "job_id": "4386908127",
+      "company": "EliseAI",
+      "country": "MA",
       "workplace_type": "On-site",
       "success_status": "success"
     }
