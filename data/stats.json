@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-13T08:27:16.820Z",
+  "generated_at": "2026-05-13T10:27:21.361Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -15263,6 +15263,78 @@
       "job_id": "4404533229",
       "company": "Salesforce",
       "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:26:24.622Z",
+      "job_id": "4383970152",
+      "company": "Climate First Bank",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:26:30.647Z",
+      "job_id": "4413136764",
+      "company": "Stage 4 Solutions",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:26:37.433Z",
+      "job_id": "4410998642",
+      "company": "Core4ce",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:26:44.454Z",
+      "job_id": "4408953028",
+      "company": "iFIT",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:26:51.026Z",
+      "job_id": "4401691302",
+      "company": "GC AI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:26:58.195Z",
+      "job_id": "4398085686",
+      "company": "Keystone Custom Homes",
+      "country": "PA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:27:04.118Z",
+      "job_id": "4410122071",
+      "company": "The Marlin Alliance, Inc.",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:27:12.068Z",
+      "job_id": "4068643274",
+      "company": "SEI",
+      "country": "NY",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-13T10:27:18.348Z",
+      "job_id": "4401533261",
+      "company": "Salesforce",
+      "country": "NY",
       "workplace_type": "Not Specified",
       "success_status": "success"
     }
