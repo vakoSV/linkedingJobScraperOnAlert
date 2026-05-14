@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-13T16:27:27.959Z",
+  "generated_at": "2026-05-14T06:27:14.844Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -15583,6 +15583,70 @@
       "job_id": "4413518500",
       "company": "The Walt Disney Company",
       "country": "FL",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:26:24.159Z",
+      "job_id": "4410602363",
+      "company": "Hyrhub",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:26:31.301Z",
+      "job_id": "4413854000",
+      "company": "Resolv Global",
+      "country": "GA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:26:36.562Z",
+      "job_id": "4413835804",
+      "company": "Resolv Global",
+      "country": "SC",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:26:43.211Z",
+      "job_id": "4413730564",
+      "company": "Ikuto",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:26:49.402Z",
+      "job_id": "4414214551",
+      "company": "CitiusTech",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:26:56.882Z",
+      "job_id": "4413728409",
+      "company": "Enzo Tech Group",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:27:04.191Z",
+      "job_id": "4413826584",
+      "company": "Trilobio",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T06:27:11.813Z",
+      "job_id": "4413467203",
+      "company": "Sunrun",
+      "country": "CA",
       "workplace_type": "On-site",
       "success_status": "success"
     }
