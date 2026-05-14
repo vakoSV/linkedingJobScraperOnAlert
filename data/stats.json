@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-14T10:27:15.073Z",
+  "generated_at": "2026-05-14T12:27:23.051Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -15800,6 +15800,86 @@
       "company": "Resolv Global",
       "country": "NC",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:21.055Z",
+      "job_id": "4402429942",
+      "company": "OpenAI",
+      "country": "United States",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:27.994Z",
+      "job_id": "4410628659",
+      "company": "Visionary Innovative Technology Solutions LLC",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:34.067Z",
+      "job_id": "4404851825",
+      "company": "JAMS Software",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:40.428Z",
+      "job_id": "4410384389",
+      "company": "Ladders",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:46.762Z",
+      "job_id": "4404245005",
+      "company": "NVIDIA",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:51.976Z",
+      "job_id": "4414161795",
+      "company": "Figma",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:26:59.281Z",
+      "job_id": "4413854000",
+      "company": "Resolv Global",
+      "country": "GA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:27:06.255Z",
+      "job_id": "4413835804",
+      "company": "Resolv Global",
+      "country": "SC",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:27:13.299Z",
+      "job_id": "4292457426",
+      "company": "Together AI",
+      "country": "CA",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-14T12:27:21.176Z",
+      "job_id": "4408776655",
+      "company": "Pivotal Partners",
+      "country": "CA",
+      "workplace_type": "Not Specified",
       "success_status": "success"
     }
   ]
