@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-15T08:27:19.525Z",
+  "generated_at": "2026-05-15T10:27:06.786Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -16200,6 +16200,70 @@
       "company": "Hightouch",
       "country": "San Francisco Bay Area",
       "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:14.534Z",
+      "job_id": "4414528493",
+      "company": "GreenLight.ai",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:21.792Z",
+      "job_id": "4414279686",
+      "company": "Life360",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:29.461Z",
+      "job_id": "4411519344",
+      "company": "OneDigital",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:36.359Z",
+      "job_id": "4414613563",
+      "company": "CloudIngest",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:41.587Z",
+      "job_id": "4414276984",
+      "company": "Openly",
+      "country": "United States",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:49.410Z",
+      "job_id": "4414714668",
+      "company": "RingCentral",
+      "country": "United States",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:26:57.016Z",
+      "job_id": "4414218796",
+      "company": "Clayton",
+      "country": "CO",
+      "workplace_type": "On-site",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-15T10:27:04.759Z",
+      "job_id": "4413467203",
+      "company": "Sunrun",
+      "country": "CA",
+      "workplace_type": "On-site",
       "success_status": "success"
     }
   ]
