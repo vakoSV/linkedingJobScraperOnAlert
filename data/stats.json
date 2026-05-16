@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-05-16T12:27:19.553Z",
+  "generated_at": "2026-05-16T14:27:08.637Z",
   "events": [
     {
       "timestamp": "2026-04-03T08:11:10.000Z",
@@ -16783,6 +16783,70 @@
       "job_id": "4402726459",
       "company": "Cyperus Group LLC",
       "country": "New York City Metropolitan Area",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:26:21.021Z",
+      "job_id": "4371989636",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:26:27.117Z",
+      "job_id": "4411573083",
+      "company": "OpenAI",
+      "country": "CA",
+      "workplace_type": "Remote",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:26:34.099Z",
+      "job_id": "4411557197",
+      "company": "Distyl",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:26:40.260Z",
+      "job_id": "4330686885",
+      "company": "Anthropic",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:26:45.792Z",
+      "job_id": "4224509015",
+      "company": "Intercom",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:26:52.449Z",
+      "job_id": "4414984779",
+      "company": "Plain",
+      "country": "CA",
+      "workplace_type": "Hybrid",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:27:00.250Z",
+      "job_id": "4414934916",
+      "company": "nVent",
+      "country": "GA",
+      "workplace_type": "Not Specified",
+      "success_status": "success"
+    },
+    {
+      "timestamp": "2026-05-16T14:27:05.244Z",
+      "job_id": "4414952475",
+      "company": "nVent",
+      "country": "WI",
       "workplace_type": "Not Specified",
       "success_status": "success"
     }
